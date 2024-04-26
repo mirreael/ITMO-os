@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+while true; do
+    read input
+    if [ "$input" == "q" ]; then
+        break
+    fi
+    
+    stroka="$stroka $input"
+done
+
+echo "$stroka"
