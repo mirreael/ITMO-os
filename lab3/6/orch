@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mkfifo pipe
+
+bash handler &
+
+pid=$!
+
+bash generator $pid
+
+rm pipe

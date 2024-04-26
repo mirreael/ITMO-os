@@ -1,0 +1,8 @@
+#!/bin/bash
+while true; do
+    while true; do
+    if read -r line < pipe; then
+        echo "$line"
+    fi
+done
+done

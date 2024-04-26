@@ -1,0 +1,8 @@
+#!/bin/bash
+
+awk '$3 == "install"
+{print $1, $2, "STARTING", $5 >> "install.log"}
+
+$3=="status" && $4 == "installed" 
+
+{print $1, $2, "FINISHED", $5 >> "install.log"}' "/var/log/dpkg.log"

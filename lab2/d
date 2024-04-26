@@ -1,0 +1,13 @@
+#!bin/bash
+
+for pid in $(ps -eo pid); do
+	ppid=$(grep -h -s "PPid" /proc/$pid/status | grep -E -s -o "[0-9]+")
+	sum_exec_runtime=$(grep -h -s "se.sum_exec_runtime" /proc/$pid/sched | awk '{print $3}')
+	nr_switches=$(grep -h -s "nr_switches" /proc/$pid/sched | awk '{print $3}')
+	art=$(awk "BEGIN {printf \"%.2f\",$sum_exec_runtime / $nr_switches}")
+
+	echo "Proccess=$pid : ParentProcess=$ppid : ART=$art" >> temp.lst
+done
+
+sort -t "=" -k2 -n temp.lst > d.lst
+rm temp.lst

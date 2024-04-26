@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo $(ps -eo pid,lstart,command | awk '$3=="hald" {print $1, $2}')
+echo "rabotaet"

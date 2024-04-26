@@ -1,0 +1,40 @@
+#!/bin/bash
+
+now_date=$(date +%F)
+fdate=$(find ~ -name "Backup-*" 2> /dev/null | awk -F '/' '{print $4}' | awk -F '-' '{print $2"-"$3"-"$4}')
+let difference=("$(date -d "$now_date" +%s)"\-"$(date -d "$fdate" +%s)")/86400
+name=$(echo $now_date | awk -F '-' '{print "Backup-"$1"-"$2"-"$3}')
+if [[ (-z $fdate) || ("$difference" -gt 7) ]]
+then
+	echo "Backup created in ~/$name"
+
+	echo "Date: "$now_date >> ~/backup-report
+    echo "Folder name:"$name >> ~/backup-report 
+    ls -- ~/source >> ~/backup-report
+
+    mkdir ~/$name    
+    cp -- ~/source/* ~/$name  
+else 
+	echo "Backup updated~/$name"
+
+	echo "The backup updated:"$now_date >> ~/backup-report
+	for file in $(ls ~/source/)
+	do
+		ct=~/$name"/"$file
+		if [ ! -f $ct ];
+		then
+			cp -- ~/source/$file $ct
+			echo "$file backed-up" >> ~/backup-report
+		else 
+			source_size=$(stat ~/source/$file -c%s)
+			indir_size=$(stat $ct -c%s)
+			if [[ "$source_size" -ne "$indir_size" ]];
+			then
+				mv -- $ct $ct"."$now_date
+				cp -- ~/source/$file $ct
+				echo "New version of "$file"  found. "$file"."$now_date >> ~/backup-report
+			fi	
+		fi
+	done
+
+fi

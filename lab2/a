@@ -1,0 +1,5 @@
+#!/bin/bash 
+ps u | wc -l
+ps -u mirr -o pid,command | awk '{print$1" : "$2}' > a.lst
+
+#-0 форматирование

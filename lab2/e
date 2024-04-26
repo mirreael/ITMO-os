@@ -1,0 +1,23 @@
+#!bin/bash
+sort -t '=' -k5 -k3 -n d.lst > temp.lst
+
+count=0
+sum=0
+prev=""
+
+while IFS= read -r line; do
+	echo "$line"
+	ppid=$(echo "$line" | cut -d '=' -f 2 | grep -E -s -o "[0-9]+")
+	art=$(echo "$line" | cut -d '=' -f 2 | grep -E -s -o "[0-9]+")
+
+	if [[ $ppid != "$prev" && $prev != "" ]]; then
+	  echo Average_Sleeping_Children_of_ParentID=$prev is $(echo "scale=2; $sum / $count" | bc -l)
+	  sum=0
+	  count=0
+	fi
+
+	sum=$(echo "scale=2; $sum + $art" | bc -l)
+	prev=$ppid
+	((count++))
+done < temp.lst > d.lst
+rm temp.lst

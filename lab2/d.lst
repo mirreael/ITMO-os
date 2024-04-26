@@ -1,0 +1,420 @@
+Proccess=1 : ParentProcess=0 : ART=0.56
+Proccess=2 : ParentProcess=0 : ART=0.31
+Average_Sleeping_Children_of_ParentID=1 is 1.00
+Proccess=39734 : ParentProcess= : ART=
+Average_Sleeping_Children_of_ParentID=2 is 2.00
+Proccess=PID : ParentProcess= : ART=
+Average_Sleeping_Children_of_ParentID=39734 is 39734.00
+Proccess=1081 : ParentProcess=1 : ART=0.09
+Proccess=1135 : ParentProcess=1 : ART=0.18
+Average_Sleeping_Children_of_ParentID=1081 is
+Proccess=1141 : ParentProcess=1 : ART=0.61
+Average_Sleeping_Children_of_ParentID=1135 is 1135.00
+Proccess=1298 : ParentProcess=1 : ART=0.20
+Average_Sleeping_Children_of_ParentID=1141 is 1141.00
+Proccess=1346 : ParentProcess=1 : ART=0.18
+Average_Sleeping_Children_of_ParentID=1298 is 1298.00
+Proccess=1388 : ParentProcess=1 : ART=1.02
+Average_Sleeping_Children_of_ParentID=1346 is 1346.00
+Proccess=1406 : ParentProcess=1 : ART=0.17
+Average_Sleeping_Children_of_ParentID=1388 is 1388.00
+Proccess=449 : ParentProcess=1 : ART=0.77
+Average_Sleeping_Children_of_ParentID=1406 is 1406.00
+Proccess=486 : ParentProcess=1 : ART=0.06
+Average_Sleeping_Children_of_ParentID=449 is 449.00
+Proccess=492 : ParentProcess=1 : ART=0.52
+Average_Sleeping_Children_of_ParentID=486 is 486.00
+Proccess=666 : ParentProcess=1 : ART=0.68
+Average_Sleeping_Children_of_ParentID=492 is 492.00
+Proccess=668 : ParentProcess=1 : ART=2.01
+Average_Sleeping_Children_of_ParentID=666 is 666.00
+Proccess=739 : ParentProcess=1 : ART=2.48
+Average_Sleeping_Children_of_ParentID=668 is 668.00
+Proccess=741 : ParentProcess=1 : ART=1.59
+Average_Sleeping_Children_of_ParentID=739 is 739.00
+Proccess=752 : ParentProcess=1 : ART=0.63
+Average_Sleeping_Children_of_ParentID=741 is 741.00
+Proccess=753 : ParentProcess=1 : ART=0.17
+Average_Sleeping_Children_of_ParentID=752 is 752.00
+Proccess=754 : ParentProcess=1 : ART=0.21
+Average_Sleeping_Children_of_ParentID=753 is 753.00
+Proccess=759 : ParentProcess=1 : ART=2.94
+Average_Sleeping_Children_of_ParentID=754 is 754.00
+Proccess=760 : ParentProcess=1 : ART=0.21
+Average_Sleeping_Children_of_ParentID=759 is 759.00
+Proccess=761 : ParentProcess=1 : ART=0.08
+Average_Sleeping_Children_of_ParentID=760 is 760.00
+Proccess=762 : ParentProcess=1 : ART=0.12
+Average_Sleeping_Children_of_ParentID=761 is 761.00
+Proccess=763 : ParentProcess=1 : ART=0.78
+Average_Sleeping_Children_of_ParentID=762 is 762.00
+Proccess=765 : ParentProcess=1 : ART=0.75
+Average_Sleeping_Children_of_ParentID=763 is 763.00
+Proccess=767 : ParentProcess=1 : ART=0.19
+Average_Sleeping_Children_of_ParentID=765 is 765.00
+Proccess=769 : ParentProcess=1 : ART=0.64
+Average_Sleeping_Children_of_ParentID=767 is 767.00
+Proccess=770 : ParentProcess=1 : ART=0.15
+Average_Sleeping_Children_of_ParentID=769 is 769.00
+Proccess=772 : ParentProcess=1 : ART=0.54
+Average_Sleeping_Children_of_ParentID=770 is 770.00
+Proccess=773 : ParentProcess=1 : ART=0.63
+Average_Sleeping_Children_of_ParentID=772 is 772.00
+Proccess=822 : ParentProcess=1 : ART=0.14
+Average_Sleeping_Children_of_ParentID=773 is 773.00
+Proccess=827 : ParentProcess=1 : ART=0.37
+Average_Sleeping_Children_of_ParentID=822 is 822.00
+Proccess=844 : ParentProcess=1 : ART=0.51
+Average_Sleeping_Children_of_ParentID=827 is 827.00
+Proccess=868 : ParentProcess=1 : ART=0.30
+Average_Sleeping_Children_of_ParentID=844 is 844.00
+Proccess=870 : ParentProcess=1 : ART=1.38
+Average_Sleeping_Children_of_ParentID=868 is 868.00
+Proccess=879 : ParentProcess=1 : ART=0.22
+Average_Sleeping_Children_of_ParentID=870 is 870.00
+Proccess=887 : ParentProcess=1 : ART=0.79
+Average_Sleeping_Children_of_ParentID=879 is 879.00
+Proccess=894 : ParentProcess=1 : ART=1.19
+Average_Sleeping_Children_of_ParentID=887 is 887.00
+Proccess=897 : ParentProcess=1 : ART=0.48
+Average_Sleeping_Children_of_ParentID=894 is 894.00
+Proccess=899 : ParentProcess=1 : ART=1.99
+Average_Sleeping_Children_of_ParentID=897 is 897.00
+Proccess=100 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=899 is 899.00
+Proccess=101 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=100 is 100.00
+Proccess=102 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=101 is 101.00
+Proccess=104 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=102 is 102.00
+Proccess=105 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=104 is 104.00
+Proccess=106 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=105 is 105.00
+Proccess=108 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=106 is 106.00
+Proccess=109 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=108 is 108.00
+Proccess=10 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=109 is 109.00
+Proccess=110 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=10 is 10.00
+Proccess=112 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=110 is 110.00
+Proccess=113 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=112 is 112.00
+Proccess=11 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=113 is 113.00
+Proccess=122 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=11 is 11.00
+Proccess=125 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=122 is 122.00
+Proccess=126 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=125 is 125.00
+Proccess=12 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=126 is 126.00
+Proccess=130 : ParentProcess=2 : ART=0.07
+Average_Sleeping_Children_of_ParentID=12 is 12.00
+Proccess=13 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=130 is 130.00
+Proccess=14 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=13 is 13.00
+Proccess=15 : ParentProcess=2 : ART=0.09
+Average_Sleeping_Children_of_ParentID=14 is 14.00
+Proccess=168 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=15 is 15.00
+Proccess=16 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=168 is 168.00
+Proccess=17 : ParentProcess=2 : ART=0.07
+Average_Sleeping_Children_of_ParentID=16 is 16.00
+Proccess=18 : ParentProcess=2 : ART=0.07
+Average_Sleeping_Children_of_ParentID=17 is 17.00
+Proccess=192 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=18 is 18.00
+Proccess=19 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=192 is 192.00
+Proccess=20 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=19 is 19.00
+Proccess=219 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=20 is 20.00
+Proccess=21 : ParentProcess=2 : ART=0.09
+Average_Sleeping_Children_of_ParentID=219 is 219.00
+Proccess=220 : ParentProcess=2 : ART=0.21
+Average_Sleeping_Children_of_ParentID=21 is 21.00
+Proccess=22 : ParentProcess=2 : ART=0.06
+Average_Sleeping_Children_of_ParentID=220 is 220.00
+Proccess=234 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=22 is 22.00
+Proccess=23871 : ParentProcess=2 : ART=0.10
+Average_Sleeping_Children_of_ParentID=234 is 234.00
+Proccess=24 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=23871 is 23871.00
+Proccess=25 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=24 is 24.00
+Proccess=26034 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=25 is 25.00
+Proccess=26035 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=26034 is 26034.00
+Proccess=26 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=26035 is 26035.00
+Proccess=27 : ParentProcess=2 : ART=0.08
+Average_Sleeping_Children_of_ParentID=26 is 26.00
+Proccess=28306 : ParentProcess=2 : ART=0.08
+Average_Sleeping_Children_of_ParentID=27 is 27.00
+Proccess=28309 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=28306 is 28306.00
+Proccess=283 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=28309 is 28309.00
+Proccess=2864 : ParentProcess=2 : ART=0.06
+Average_Sleeping_Children_of_ParentID=283 is 283.00
+Proccess=28 : ParentProcess=2 : ART=0.06
+Average_Sleeping_Children_of_ParentID=2864 is 2864.00
+Proccess=30 : ParentProcess=2 : ART=0.15
+Average_Sleeping_Children_of_ParentID=28 is 28.00
+Proccess=312 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=30 is 30.00
+Proccess=31 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=312 is 312.00
+Proccess=32103 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=31 is 31.00
+Proccess=32 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=32103 is 32103.00
+Proccess=33996 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=32 is 32.00
+Proccess=33 : ParentProcess=2 : ART=0.11
+Average_Sleeping_Children_of_ParentID=33996 is 33996.00
+Proccess=34 : ParentProcess=2 : ART=0.07
+Average_Sleeping_Children_of_ParentID=33 is 33.00
+Proccess=35885 : ParentProcess=2 : ART=0.06
+Average_Sleeping_Children_of_ParentID=34 is 34.00
+Proccess=35922 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=35885 is 35885.00
+Proccess=359 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=35922 is 35922.00
+Proccess=360 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=359 is 359.00
+Proccess=361 : ParentProcess=2 : ART=0.18
+Average_Sleeping_Children_of_ParentID=360 is 360.00
+Proccess=362 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=361 is 361.00
+Proccess=36 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=362 is 362.00
+Proccess=373 : ParentProcess=2 : ART=0.17
+Average_Sleeping_Children_of_ParentID=36 is 36.00
+Proccess=374 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=373 is 373.00
+Proccess=37 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=374 is 374.00
+Proccess=38 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=37 is 37.00
+Proccess=39 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=38 is 38.00
+Proccess=3 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=39 is 39.00
+Proccess=42 : ParentProcess=2 : ART=0.10
+Average_Sleeping_Children_of_ParentID=3 is 3.00
+Proccess=43 : ParentProcess=2 : ART=2.86
+Average_Sleeping_Children_of_ParentID=42 is 42.00
+Proccess=44 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=43 is 43.00
+Proccess=45 : ParentProcess=2 : ART=0.08
+Average_Sleeping_Children_of_ParentID=44 is 44.00
+Proccess=4618 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=45 is 45.00
+Proccess=46 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=4618 is 4618.00
+Proccess=478 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=46 is 46.00
+Proccess=47 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=478 is 478.00
+Proccess=483 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=47 is 47.00
+Proccess=484 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=483 is 483.00
+Proccess=485 : ParentProcess=2 : ART=0.08
+Average_Sleeping_Children_of_ParentID=484 is 484.00
+Proccess=48 : ParentProcess=2 : ART=0.05
+Average_Sleeping_Children_of_ParentID=485 is 485.00
+Proccess=4 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=48 is 48.00
+Proccess=587 : ParentProcess=2 : ART=0.07
+Average_Sleeping_Children_of_ParentID=4 is 4.00
+Proccess=588 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=587 is 587.00
+Proccess=5 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=588 is 588.00
+Proccess=6615 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=5 is 5.00
+Proccess=6 : ParentProcess=2 : ART=0.00
+Average_Sleeping_Children_of_ParentID=6615 is 6615.00
+Proccess=8 : ParentProcess=2 : ART=0.01
+Average_Sleeping_Children_of_ParentID=6 is 6.00
+Proccess=94 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=8 is 8.00
+Proccess=95 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=94 is 94.00
+Proccess=9645 : ParentProcess=2 : ART=0.08
+Average_Sleeping_Children_of_ParentID=95 is 95.00
+Proccess=96 : ParentProcess=2 : ART=0.03
+Average_Sleeping_Children_of_ParentID=9645 is 9645.00
+Proccess=97 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=96 is 96.00
+Proccess=98 : ParentProcess=2 : ART=0.04
+Average_Sleeping_Children_of_ParentID=97 is 97.00
+Proccess=99 : ParentProcess=2 : ART=0.02
+Average_Sleeping_Children_of_ParentID=98 is 98.00
+Proccess=779 : ParentProcess=752 : ART=0.04
+Average_Sleeping_Children_of_ParentID=99 is 99.00
+Proccess=1378 : ParentProcess=897 : ART=0.50
+Average_Sleeping_Children_of_ParentID=779 is 779.00
+Proccess=1415 : ParentProcess=1378 : ART=0.24
+Average_Sleeping_Children_of_ParentID=1378 is 1378.00
+Proccess=1389 : ParentProcess=1388 : ART=0.11
+Average_Sleeping_Children_of_ParentID=1415 is 1415.00
+Proccess=1395 : ParentProcess=1388 : ART=0.17
+Average_Sleeping_Children_of_ParentID=1389 is 1389.00
+Proccess=1396 : ParentProcess=1388 : ART=0.02
+Average_Sleeping_Children_of_ParentID=1395 is 1395.00
+Proccess=1397 : ParentProcess=1388 : ART=0.22
+Average_Sleeping_Children_of_ParentID=1396 is 1396.00
+Proccess=1398 : ParentProcess=1388 : ART=1.81
+Average_Sleeping_Children_of_ParentID=1397 is 1397.00
+Proccess=1414 : ParentProcess=1388 : ART=0.12
+Average_Sleeping_Children_of_ParentID=1398 is 1398.00
+Proccess=1463 : ParentProcess=1388 : ART=0.27
+Average_Sleeping_Children_of_ParentID=1414 is 1414.00
+Proccess=1473 : ParentProcess=1388 : ART=0.15
+Average_Sleeping_Children_of_ParentID=1463 is 1463.00
+Proccess=1480 : ParentProcess=1388 : ART=0.17
+Average_Sleeping_Children_of_ParentID=1473 is 1473.00
+Proccess=1482 : ParentProcess=1388 : ART=0.28
+Average_Sleeping_Children_of_ParentID=1480 is 1480.00
+Proccess=1505 : ParentProcess=1388 : ART=0.60
+Average_Sleeping_Children_of_ParentID=1482 is 1482.00
+Proccess=1535 : ParentProcess=1388 : ART=0.20
+Average_Sleeping_Children_of_ParentID=1505 is 1505.00
+Proccess=1537 : ParentProcess=1388 : ART=0.17
+Average_Sleeping_Children_of_ParentID=1535 is 1535.00
+Proccess=1546 : ParentProcess=1388 : ART=0.27
+Average_Sleeping_Children_of_ParentID=1537 is 1537.00
+Proccess=1552 : ParentProcess=1388 : ART=0.22
+Average_Sleeping_Children_of_ParentID=1546 is 1546.00
+Proccess=1553 : ParentProcess=1388 : ART=0.26
+Average_Sleeping_Children_of_ParentID=1552 is 1552.00
+Proccess=1560 : ParentProcess=1388 : ART=0.18
+Average_Sleeping_Children_of_ParentID=1553 is 1553.00
+Proccess=1561 : ParentProcess=1388 : ART=0.10
+Average_Sleeping_Children_of_ParentID=1560 is 1560.00
+Proccess=1574 : ParentProcess=1388 : ART=0.24
+Average_Sleeping_Children_of_ParentID=1561 is 1561.00
+Proccess=1579 : ParentProcess=1388 : ART=0.12
+Average_Sleeping_Children_of_ParentID=1574 is 1574.00
+Proccess=1580 : ParentProcess=1388 : ART=0.20
+Average_Sleeping_Children_of_ParentID=1579 is 1579.00
+Proccess=1592 : ParentProcess=1388 : ART=0.17
+Average_Sleeping_Children_of_ParentID=1580 is 1580.00
+Proccess=1595 : ParentProcess=1388 : ART=0.13
+Average_Sleeping_Children_of_ParentID=1592 is 1592.00
+Proccess=1602 : ParentProcess=1388 : ART=0.13
+Average_Sleeping_Children_of_ParentID=1595 is 1595.00
+Proccess=1623 : ParentProcess=1388 : ART=0.56
+Average_Sleeping_Children_of_ParentID=1602 is 1602.00
+Proccess=1625 : ParentProcess=1388 : ART=0.15
+Average_Sleeping_Children_of_ParentID=1623 is 1623.00
+Proccess=1637 : ParentProcess=1388 : ART=0.08
+Average_Sleeping_Children_of_ParentID=1625 is 1625.00
+Proccess=1638 : ParentProcess=1388 : ART=0.09
+Average_Sleeping_Children_of_ParentID=1637 is 1637.00
+Proccess=1640 : ParentProcess=1388 : ART=1.23
+Average_Sleeping_Children_of_ParentID=1638 is 1638.00
+Proccess=1643 : ParentProcess=1388 : ART=0.13
+Average_Sleeping_Children_of_ParentID=1640 is 1640.00
+Proccess=1644 : ParentProcess=1388 : ART=5.43
+Average_Sleeping_Children_of_ParentID=1643 is 1643.00
+Proccess=1647 : ParentProcess=1388 : ART=0.73
+Average_Sleeping_Children_of_ParentID=1644 is 1644.00
+Proccess=1648 : ParentProcess=1388 : ART=0.41
+Average_Sleeping_Children_of_ParentID=1647 is 1647.00
+Proccess=1649 : ParentProcess=1388 : ART=0.58
+Average_Sleeping_Children_of_ParentID=1648 is 1648.00
+Proccess=1650 : ParentProcess=1388 : ART=0.22
+Average_Sleeping_Children_of_ParentID=1649 is 1649.00
+Proccess=1651 : ParentProcess=1388 : ART=0.06
+Average_Sleeping_Children_of_ParentID=1650 is 1650.00
+Proccess=1652 : ParentProcess=1388 : ART=0.07
+Average_Sleeping_Children_of_ParentID=1651 is 1651.00
+Proccess=1653 : ParentProcess=1388 : ART=0.11
+Average_Sleeping_Children_of_ParentID=1652 is 1652.00
+Proccess=1655 : ParentProcess=1388 : ART=0.06
+Average_Sleeping_Children_of_ParentID=1653 is 1653.00
+Proccess=1656 : ParentProcess=1388 : ART=0.09
+Average_Sleeping_Children_of_ParentID=1655 is 1655.00
+Proccess=1657 : ParentProcess=1388 : ART=0.58
+Average_Sleeping_Children_of_ParentID=1656 is 1656.00
+Proccess=1685 : ParentProcess=1388 : ART=0.34
+Average_Sleeping_Children_of_ParentID=1657 is 1657.00
+Proccess=1736 : ParentProcess=1388 : ART=0.05
+Average_Sleeping_Children_of_ParentID=1685 is 1685.00
+Proccess=1756 : ParentProcess=1388 : ART=0.63
+Average_Sleeping_Children_of_ParentID=1736 is 1736.00
+Proccess=1766 : ParentProcess=1388 : ART=0.40
+Average_Sleeping_Children_of_ParentID=1756 is 1756.00
+Proccess=1767 : ParentProcess=1388 : ART=0.11
+Average_Sleeping_Children_of_ParentID=1766 is 1766.00
+Proccess=1789 : ParentProcess=1388 : ART=0.09
+Average_Sleeping_Children_of_ParentID=1767 is 1767.00
+Proccess=1800 : ParentProcess=1388 : ART=0.45
+Average_Sleeping_Children_of_ParentID=1789 is 1789.00
+Proccess=1823 : ParentProcess=1388 : ART=0.65
+Average_Sleeping_Children_of_ParentID=1800 is 1800.00
+Proccess=1833 : ParentProcess=1388 : ART=0.61
+Average_Sleeping_Children_of_ParentID=1823 is 1823.00
+Proccess=1865 : ParentProcess=1388 : ART=1.71
+Average_Sleeping_Children_of_ParentID=1833 is 1833.00
+Proccess=1934 : ParentProcess=1388 : ART=0.41
+Average_Sleeping_Children_of_ParentID=1865 is 1865.00
+Proccess=1970 : ParentProcess=1388 : ART=0.63
+Average_Sleeping_Children_of_ParentID=1934 is 1934.00
+Proccess=2002 : ParentProcess=1388 : ART=0.45
+Average_Sleeping_Children_of_ParentID=1970 is 1970.00
+Proccess=3360 : ParentProcess=1388 : ART=0.40
+Average_Sleeping_Children_of_ParentID=2002 is 2002.00
+Proccess=35893 : ParentProcess=1388 : ART=0.42
+Average_Sleeping_Children_of_ParentID=3360 is 3360.00
+Proccess=4115 : ParentProcess=1388 : ART=1.06
+Average_Sleeping_Children_of_ParentID=35893 is 35893.00
+Proccess=1419 : ParentProcess=1415 : ART=0.15
+Average_Sleeping_Children_of_ParentID=4115 is 4115.00
+Proccess=1617 : ParentProcess=1473 : ART=0.24
+Average_Sleeping_Children_of_ParentID=1419 is 1419.00
+Proccess=1502 : ParentProcess=1482 : ART=0.10
+Average_Sleeping_Children_of_ParentID=1617 is 1617.00
+Proccess=1854 : ParentProcess=1482 : ART=0.83
+Average_Sleeping_Children_of_ParentID=1502 is 1502.00
+Proccess=1894 : ParentProcess=1482 : ART=0.11
+Average_Sleeping_Children_of_ParentID=1854 is 1854.00
+Proccess=2061 : ParentProcess=1482 : ART=1.39
+Average_Sleeping_Children_of_ParentID=1894 is 1894.00
+Proccess=1511 : ParentProcess=1502 : ART=0.17
+Average_Sleeping_Children_of_ParentID=2061 is 2061.00
+Proccess=1707 : ParentProcess=1505 : ART=0.22
+Average_Sleeping_Children_of_ParentID=1511 is 1511.00
+Proccess=23895 : ParentProcess=1505 : ART=1.29
+Average_Sleeping_Children_of_ParentID=1707 is 1707.00
+Proccess=1668 : ParentProcess=1637 : ART=0.09
+Average_Sleeping_Children_of_ParentID=23895 is 23895.00
+Proccess=1725 : ParentProcess=1668 : ART=0.12
+Average_Sleeping_Children_of_ParentID=1668 is 1668.00
+Proccess=1733 : ParentProcess=1668 : ART=0.20
+Average_Sleeping_Children_of_ParentID=1725 is 1725.00
+Proccess=1761 : ParentProcess=1668 : ART=0.10
+Average_Sleeping_Children_of_ParentID=1733 is 1733.00
+Proccess=1796 : ParentProcess=1789 : ART=0.15
+Average_Sleeping_Children_of_ParentID=1761 is 1761.00
+Proccess=2030 : ParentProcess=2002 : ART=0.50
+Average_Sleeping_Children_of_ParentID=1796 is 1796.00
+Proccess=39733 : ParentProcess=2030 : ART=0.05
+Average_Sleeping_Children_of_ParentID=2030 is 2030.00
+Proccess=3368 : ParentProcess=3360 : ART=0.22
+Average_Sleeping_Children_of_ParentID=39733 is 39733.00

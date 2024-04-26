@@ -1,0 +1,27 @@
+#!/bin/bash
+input=""
+while read input; do	
+	if ! grep -q "$1" <<< "$input"; then
+		continue
+	fi
+
+    trash=$(echo "$input" | cut -d " " -f 1)
+    delete=$(echo "$input" | cut -d " " -f 2)
+    echo "$delete"
+
+    echo "Restore $trash ? (yes/no)"
+    read result < /dev/tty
+    if [[ "$result" == "yes" ]]; then
+        directory="$HOME/os/lab4/$(basename "$trash")"
+        if [[ ! -d "$(dirname "$directory")" ]]; then
+        	echo "No directory. Restoring at home"
+        	directory="$HOME/$1"
+        fi 
+    	ln -- "$delete" "$directory" &&  
+        rm -- "$delete" && 
+        {
+      	sed -i "\|$delete|d" "$HOME/trash.log"
+        echo "Restored $trash"
+        }
+    fi
+done < "$HOME/trash.log"

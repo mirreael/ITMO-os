@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while true 
+do 
+	read line
+	echo "$line" > pipe
+	
+	if [[ "$line" == "quit" ]]
+	then 
+		exit 0
+	fi
+
+done

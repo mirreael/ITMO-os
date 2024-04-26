@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ ! -d "$HOME/trash" ]; then
+    mkdir "$HOME/trash"
+fi
+
+file="$1"
+if [ ! -e "$file" ]; then
+    echo "$file not exist ."
+    exit 1
+fi
+link="$HOME/trash/$(ls "$HOME/trash" | wc -l)"
+ln "$file" "$link"
+rm "$file"
+echo "$(realpath "$file") $link" >> $HOME/trash.log

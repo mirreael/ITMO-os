@@ -1,0 +1,23 @@
+#!/bin/bash
+
+while true; do
+    read -p "login: A, B; QUIT for exit " login
+    case $login in
+        "A" | "B")
+            echo "$login" > pipe
+            while true; do
+                read message
+                if [[ $message == "QUIT" ]]; then
+                    echo "QUIT" > pipe
+                    break
+                fi
+                echo "[$login]: $message" > pipe
+            done
+            ;;
+        "QUIT")
+            echo "QUIT" > pipe
+            break
+            ;;
+    esac
+done
+

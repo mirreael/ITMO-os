@@ -1,0 +1,42 @@
+#!/bin/bash
+
+touch pipe
+> pipe 
+
+num=1
+mode="+"
+
+tail -n 0 -f pipe |
+while true
+do
+    read line < pipe
+    case $line in
+        "+")
+            mode="+"
+            ;;
+        "*")
+            mode="*"
+            ;;
+        "QUIT")
+       		killall tail
+
+            exit 0
+            ;;
+        [0-9]*)
+            case $mode in
+                "+")						
+                    num=$(($num + $line))
+                    echo $num
+                    ;;
+                "*")						
+                    num=$(($num * $line))
+                    echo $num
+                    ;;
+            esac
+            ;;
+        *) 
+			killall tail
+            exit 1
+            ;;
+    esac
+done

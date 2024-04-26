@@ -1,0 +1,22 @@
+#!/bin/bash
+
+foo() {
+    while true; do
+        result=$(echo "1 * 2" | bc)
+    done
+}
+
+foo &
+pid1=$1!
+foo &
+pid2=$2!
+foo &
+pid3=$3!
+
+sleep 10
+
+renice -n 10 -p $pid1
+
+sleep 10
+
+kill -9 $pid3

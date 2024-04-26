@@ -1,0 +1,16 @@
+#!/bin/bash
+
+start_time=$(date +%s)
+
+sleep 10
+
+pids=$(ls /proc | grep -E '^[0-9]+$')
+
+sorted_pids=$(for pid in $pids; do
+    read_bytes=$(grep -s "read_bytes" "/proc/$pid/io" | awk '{print $2}')     
+    if [[ -n $read_bytes ]]; then
+        echo "$pid : $read_bytes : $(tr -d '\0' < /proc/$pid/cmdline)"
+    fi
+done | sort -t ':' -nr -k2 | head -n 3)
+
+echo "$sorted_pids"

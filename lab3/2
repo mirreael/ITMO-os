@@ -1,0 +1,4 @@
+#!/bin/bash
+at now + 2 minutes < /home/mirr/os/lab3/1
+tail -n 0 -f ~/report
+
