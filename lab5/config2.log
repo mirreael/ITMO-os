@@ -1,0 +1,2580 @@
+___Info in Сб 27 апр 2024 07:48:37 UTC
+	System mem params
+MiB Mem :   3911,2 total,   3233,3 free,    469,0 used,    208,9 buff/cache
+MiB Swap:   3911,0 total,   3360,2 free,    550,8 used.   3243,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0   31148  27120   2800 R 100,0   0,7   0:01.14 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0   44744  40848   2800 R 100,0   1,0   0:01.98 mem2.ba+
+   1540 mirr      20   0 5190296 120888  47608 S  93,3   3,0  17:54.16 gnome-s+
+  98590 mirr      20   0   44348  40320   2800 R  93,3   1,0   0:01.97 mem.bash
+   2112 mirr      20   0 1142656  90780  24916 S  13,3   2,3   2:57.77 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:48:39 UTC
+	System mem params
+MiB Mem :   3911,2 total,   3175,8 free,    526,5 used,    208,9 buff/cache
+MiB Swap:   3911,0 total,   3360,2 free,    550,8 used.   3186,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0   59000  55104   2800 R  93,8   1,4   0:03.06 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 124776  51420 R 125,0   3,1  17:56.06 gnome-s+
+  98590 mirr      20   0   72860  68832   2800 R  93,8   1,7   0:03.89 mem.bash
+  98591 mirr      20   0   72728  68832   2800 R  87,5   1,7   0:03.86 mem2.ba+
+   2112 mirr      20   0 1142656  90832  24916 S  18,8   2,3   2:58.26 nautilus
+  72387 mirr      20   0  574740  43064  24236 S   6,2   1,1   0:18.37 gedit
+
+___Info in Сб 27 апр 2024 07:48:41 UTC
+	System mem params
+MiB Mem :   3911,2 total,   3113,5 free,    588,7 used,    209,0 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   3127,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0   90548  86520   2800 R  93,8   2,2   0:05.02 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  104672 100776   2800 R 100,0   2,5   0:05.84 mem.bash
+  98591 mirr      20   0  103880  99984   2800 R 100,0   2,5   0:05.76 mem2.ba+
+   1540 mirr      20   0 5194700 124924  51492 S  12,5   3,1  17:57.58 gnome-s+
+   2112 mirr      20   0 1142656  90832  24916 S   6,2   2,3   2:58.51 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:48:43 UTC
+	System mem params
+MiB Mem :   3911,2 total,   3032,1 free,    670,1 used,    209,0 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   3040,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  131468 127440   2800 R  93,8   3,2   0:06.99 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  149948 145920   2800 R 100,0   3,6   0:07.73 mem2.ba+
+  98590 mirr      20   0  150476 146448   2800 R  93,8   3,7   0:07.80 mem.bash
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:48:45 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2954,1 free,    748,1 used,    209,0 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   2962,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  173444 169416   2800 R 100,0   4,2   0:08.93 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  191660 187632   2800 R 100,0   4,7   0:09.74 mem.bash
+  98591 mirr      20   0  191396 187368   2800 R 100,0   4,7   0:09.69 mem2.ba+
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   2:58.73 nautilus
+  10222 mirr      20   0    6992   2584   2384 S   6,7   0,1   0:03.90 bash
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:48:47 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2861,1 free,    841,1 used,    209,0 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   2866,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  219380 215352   2800 R 100,0   5,4   0:10.91 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  238652 234624   2800 R 100,0   5,9   0:11.66 mem2.ba+
+  98590 mirr      20   0  238784 234888   2800 R 100,0   5,9   0:11.70 mem.bash
+   1540 mirr      20   0 5190284 120988  47548 S  13,3   3,0  17:58.53 gnome-s+
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   2:58.81 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:48:49 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2786,5 free,    915,6 used,    209,0 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   2800,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  261752 257856   2800 R  93,8   6,4   0:12.85 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190284 121116  47632 S  93,8   3,0  17:59.93 gnome-s+
+  98590 mirr      20   0  272444 268416   2800 R  93,8   6,7   0:13.63 mem.bash
+  98591 mirr      20   0  272180 268416   2800 R  87,5   6,7   0:13.59 mem2.ba+
+   2112 mirr      20   0 1142656  90832  24916 S  31,2   2,3   2:59.21 nautilus
+  99515 mirr      20   0    9948   3416   2820 R   6,2   0,1   0:00.01 top
+
+___Info in Сб 27 апр 2024 07:48:51 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2717,4 free,    984,5 used,    209,2 buff/cache
+MiB Swap:   3911,0 total,   3360,4 free,    550,5 used.   2730,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  294092 290064   2800 R 100,0   7,2   0:14.78 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  309536 305640   2800 R 100,0   7,6   0:15.65 mem.bash
+  98591 mirr      20   0  309536 305640   2800 R  93,3   7,6   0:15.59 mem2.ba+
+   1540 mirr      20   0 5194700 122404  48972 S  26,7   3,1  18:01.01 gnome-s+
+  72387 mirr      20   0  574740  44092  24740 S  13,3   1,1   0:18.94 gedit
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   2:59.38 nautilus
+
+___Info in Сб 27 апр 2024 07:48:54 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2637,7 free,   1064,3 used,    209,2 buff/cache
+MiB Swap:   3911,0 total,   3360,7 free,    550,3 used.   2649,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  332240 328344   2800 R  93,8   8,2   0:16.80 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  347684 343920   2800 R 100,0   8,6   0:17.58 mem2.ba+
+  98590 mirr      20   0  347684 343656   2800 R  93,8   8,6   0:17.63 mem.bash
+   1540 mirr      20   0 5190284 121084  47648 S  18,8   3,0  18:01.58 gnome-s+
+  72387 mirr      20   0  574740  44152  24748 S  12,5   1,1   0:19.23 gedit
+   2112 mirr      20   0 1142656  90832  24916 S   6,2   2,3   2:59.49 nautilus
+
+___Info in Сб 27 апр 2024 07:48:56 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2554,7 free,   1147,2 used,    209,2 buff/cache
+MiB Swap:   3911,0 total,   3360,7 free,    550,3 used.   2562,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  373952 370056   2800 R 100,0   9,2   0:18.79 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  392960 389064   2800 R 100,0   9,7   0:19.59 mem.bash
+  98591 mirr      20   0  393488 389592   2800 R 100,0   9,7   0:19.53 mem2.ba+
+   1540 mirr      20   0 5194700 122428  48992 S  20,0   3,1  18:01.78 gnome-s+
+  72387 mirr      20   0  574740  44152  24748 S  13,3   1,1   0:19.37 gedit
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   2:59.58 nautilus
+
+___Info in Сб 27 апр 2024 07:48:57 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2484,1 free,   1217,9 used,    209,2 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2497,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  413948 409920   2800 R  93,8  10,2   0:20.74 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  426356 422328   2800 R  93,3  10,5   0:21.55 mem.bash
+  98591 mirr      20   0  427016 423120   2800 R  93,3  10,6   0:21.48 mem2.ba+
+   1540 mirr      20   0 5194700 121492  47560 S  20,0   3,0  18:02.71 gnome-s+
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   2:59.73 nautilus
+  10484 mirr      20   0    6992   2584   2384 S   6,7   0,1   0:03.74 bash
+
+___Info in Сб 27 апр 2024 07:49:00 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2406,6 free,   1295,4 used,    209,2 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2416,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  451040 447144   2800 R 100,0  11,2   0:22.72 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 125948  51868 S 120,0   3,1  18:03.32 gnome-s+
+  98590 mirr      20   0  464900 460872   2800 R  93,3  11,5   0:23.54 mem.bash
+  98591 mirr      20   0  465428 461400   2800 R  93,3  11,5   0:23.48 mem2.ba+
+   2112 mirr      20   0 1142656  90832  24916 S  26,7   2,3   2:59.97 nautilus
+  77508 root      20   0       0      0      0 I   6,7   0,0   0:00.27 kworker+
+
+___Info in Сб 27 апр 2024 07:49:02 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2351,4 free,   1350,4 used,    209,3 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2363,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  481268 477240   2800 R  68,8  11,9   0:24.63 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  495920 492024   2800 R 100,0  12,3   0:25.42 mem.bash
+  98591 mirr      20   0  496316 492552   2800 R 100,0  12,3   0:25.39 mem2.ba+
+   1540 mirr      20   0 5194716 124512  50388 S  20,0   3,1  18:04.91 gnome-s+
+   2112 mirr      20   0 1142656  90832  24916 S   6,7   2,3   3:00.32 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:04 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2279,6 free,   1422,2 used,    209,4 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2296,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  517304 513408   2800 R  86,7  12,8   0:26.54 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194700 123136  49132 S 118,8   3,1  18:06.70 gnome-s+
+  98590 mirr      20   0  527996 523968   2800 R 100,0  13,1   0:27.36 mem.bash
+  98591 mirr      20   0  528524 524760   2800 R  87,5  13,1   0:27.35 mem2.ba+
+   2112 mirr      20   0 1142656  90832  24916 S  18,8   2,3   3:00.58 nautilus
+  77664 mirr      20   0   10080   2848   2232 S   6,2   0,1   0:01.48 top
+
+___Info in Сб 27 апр 2024 07:49:06 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2232,1 free,   1469,8 used,    209,3 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2244,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  541592 537696   2800 R 100,0  13,4   0:28.46 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  554924 551160   2800 R 100,0  13,8   0:29.32 mem.bash
+  98591 mirr      20   0  555320 551424   2800 R  93,8  13,8   0:29.29 mem2.ba+
+   1540 mirr      20   0 5190300 121928  47832 S  43,8   3,0  18:08.33 gnome-s+
+   2112 mirr      20   0 1142656  90916  24916 S  31,2   2,3   3:01.09 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:08 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2174,0 free,   1527,6 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2186,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  571424 567528   2800 R  88,9  14,2   0:30.46 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190284 121856  47736 S 133,3   3,0  18:10.24 gnome-s+
+  98590 mirr      20   0  584228 580464   2800 R  93,3  14,5   0:31.30 mem.bash
+  98591 mirr      20   0  584756 580728   2800 R  93,3  14,5   0:31.29 mem2.ba+
+  72387 mirr      20   0  574740  44172  24748 S  20,0   1,1   0:20.41 gedit
+     14 root      20   0       0      0      0 I   6,7   0,0   0:06.95 rcu_sch+
+
+___Info in Сб 27 апр 2024 07:49:10 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2116,6 free,   1585,0 used,    209,5 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2132,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  599408 595512   2800 R 100,0  14,9   0:32.37 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 123968  49792 S 118,8   3,1  18:12.48 gnome-s+
+  98591 mirr      20   0  612080 608184   2800 R  93,8  15,2   0:33.20 mem2.ba+
+  98590 mirr      20   0  611156 607128   2800 R  81,2  15,2   0:33.15 mem.bash
+  72387 mirr      20   0  574740  44172  24748 S  31,2   1,1   0:20.78 gedit
+   2112 mirr      20   0 1142656  90916  24916 S   6,2   2,3   3:01.48 nautilus
+
+___Info in Сб 27 апр 2024 07:49:12 UTC
+	System mem params
+MiB Mem :   3911,2 total,   2057,3 free,   1644,3 used,    209,5 buff/cache
+MiB Swap:   3911,0 total,   3361,2 free,    549,8 used.   2068,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  629900 626136   2800 R  70,6  15,6   0:34.28 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194732 125928  51672 S 126,7   3,1  18:13.97 gnome-s+
+  98590 mirr      20   0  643760 639864   2800 R 100,0  16,0   0:35.10 mem.bash
+  98591 mirr      20   0  643892 639864   2800 R  93,3  16,0   0:35.11 mem2.ba+
+   2112 mirr      20   0 1142656  91004  24916 R  46,7   2,3   3:01.72 nautilus
+  72387 mirr      20   0  574740  44260  24816 S  20,0   1,1   0:20.96 gedit
+
+___Info in Сб 27 апр 2024 07:49:14 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1986,2 free,   1715,4 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1999,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  665936 662040   2800 R 100,0  16,5   0:36.28 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  681248 677352   2800 R 100,0  16,9   0:37.10 mem.bash
+  98591 mirr      20   0  681644 677616   2800 R  93,8  16,9   0:37.11 mem2.ba+
+   1540 mirr      20   0 5190316 121920  47664 S   6,2   3,0  18:15.07 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,2   2,3   3:01.93 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:16 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1907,0 free,   1794,6 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1916,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  707120 703224   2800 R  93,8  17,6   0:38.27 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  723752 719856   2800 R 100,0  18,0   0:39.10 mem.bash
+  98591 mirr      20   0  724280 720384   2800 R 100,0  18,0   0:39.12 mem2.ba+
+   1540 mirr      20   0 5194732 124660  50412 S   6,2   3,1  18:15.69 gnome-s+
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:49:18 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1813,9 free,   1887,7 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1821,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  750944 747048   2800 R 100,0  18,7   0:40.27 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  771140 767112   2800 R 100,0  19,2   0:41.09 mem2.ba+
+  98590 mirr      20   0  770084 766056   2800 R  93,8  19,1   0:41.07 mem.bash
+   1540 mirr      20   0 5194732 122536  48288 S   6,2   3,1  18:15.75 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,2   2,3   3:02.14 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:20 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1721,6 free,   1980,0 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1730,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  798332 794304   2800 R  93,8  19,8   0:42.22 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  817208 813312   2800 R 100,0  20,3   0:43.03 mem.bash
+  98591 mirr      20   0  818660 814632   2800 R 100,0  20,3   0:43.04 mem2.ba+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:02.23 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:49:22 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1630,1 free,   2071,5 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1637,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  845060 841032   2800 R 100,0  21,0   0:44.19 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  864728 860832   2800 R 100,0  21,5   0:45.00 mem.bash
+  98591 mirr      20   0  866444 862680   2800 R 100,0  21,5   0:45.02 mem2.ba+
+  72387 mirr      20   0  574740  44264  24816 S   6,7   1,1   0:20.97 gedit
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:49:24 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1538,8 free,   2162,7 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1546,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  890996 886968   2800 R 100,0  22,1   0:46.16 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0  910004 905976   2800 R 100,0  22,6   0:46.97 mem.bash
+  98591 mirr      20   0  911852 907824   2800 R  93,8  22,7   0:46.99 mem2.ba+
+   1540 mirr      20   0 5190316 122024  47776 S   6,2   3,0  18:16.09 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,2   2,3   3:02.40 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:26 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1449,5 free,   2252,0 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1461,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  936272 932376   2800 R 100,0  23,3   0:48.12 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  955544 951648   2800 R 100,0  23,8   0:48.99 mem2.ba+
+  98590 mirr      20   0  953828 949800   2800 R  93,3  23,7   0:48.96 mem.bash
+   1540 mirr      20   0 5194732 124848  50600 S  66,7   3,1  18:16.60 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S  13,3   2,3   3:02.53 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:28 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1384,5 free,   2317,0 used,    209,6 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1392,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0  971648 967752   2800 R  93,8  24,2   0:50.07 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0  991052 987024   2800 R 100,0  24,6   0:50.91 mem2.ba+
+  98590 mirr      20   0  989600 985704   2800 R  93,3  24,6   0:50.89 mem.bash
+   1540 mirr      20   0 5190316 122044  47796 S  46,7   3,0  18:17.26 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:02.79 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:30 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1307,5 free,   2394,0 used,    209,7 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1317,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1012040 984,5m   2800 R 100,0  25,2   0:52.02 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1028144   1,0g   2800 R 100,0  25,6   0:52.83 mem.bash
+  98591 mirr      20   0 1029992   1,0g   2800 R 100,0  25,6   0:52.88 mem2.ba+
+   1540 mirr      20   0 5190316 121888  47640 S  12,5   3,0  18:17.61 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,2   2,3   3:02.93 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:32 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1245,3 free,   2456,2 used,    209,7 buff/cache
+MiB Swap:   3911,0 total,   3361,4 free,    549,5 used.   1258,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1044644   1,0g   2800 R 100,0  26,0   0:53.96 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1057448   1,0g   2800 R 100,0  26,3   0:54.72 mem.bash
+  98591 mirr      20   0 1060220   1,0g   2800 R 100,0  26,4   0:54.83 mem2.ba+
+   1540 mirr      20   0 5194732 124452  50204 S  66,7   3,1  18:18.38 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:03.21 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:34 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1185,5 free,   2516,0 used,    209,7 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.   1203,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1073156   1,0g   2800 R  68,8  26,7   0:55.74 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190300 121364  47044 S 127,8   3,0  18:20.29 gnome-s+
+  98591 mirr      20   0 1086752   1,0g   2800 R  88,9  27,0   0:56.79 mem2.ba+
+  98590 mirr      20   0 1083452   1,0g   2800 R  83,3  27,0   0:56.60 mem.bash
+   2112 mirr      20   0 1142656  91004  24916 S  16,7   2,3   3:03.64 nautilus
+  72387 mirr      20   0  577116  46576  24816 S  11,1   1,2   0:21.22 gedit
+
+___Info in Сб 27 апр 2024 07:49:36 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1138,2 free,   2563,2 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.   1155,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1097312   1,0g   2800 R 100,0  27,3   0:57.64 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1109720   1,1g   2800 R 100,0  27,6   0:58.47 mem.bash
+  98591 mirr      20   0 1112888   1,1g   2800 R 100,0  27,7   0:58.64 mem2.ba+
+   1540 mirr      20   0 5190300 121708  47384 S  26,7   3,0  18:22.71 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:03.84 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:38 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1082,6 free,   2618,9 used,    209,7 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.   1099,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1126352   1,1g   2800 R  94,1  28,0   0:59.62 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1139288   1,1g   2800 R 100,0  28,3   1:00.72 mem2.ba+
+  98590 mirr      20   0 1136912   1,1g   2800 R  93,3  28,3   1:00.58 mem.bash
+   1540 mirr      20   0 5194700 124884  50592 S  46,7   3,1  18:24.09 gnome-s+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:04.39 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:40 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1031,2 free,   2670,3 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.   1043,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1151828   1,1g   2800 R  93,8  28,7   1:01.74 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1165952   1,1g   2800 R 100,0  29,0   1:02.56 mem.bash
+  98591 mirr      20   0 1168592   1,1g   2800 R 100,0  29,1   1:02.70 mem2.ba+
+   2112 mirr      20   0 1142656  91004  24916 S   6,7   2,3   3:04.56 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:49:42 UTC
+	System mem params
+MiB Mem :   3911,2 total,    960,0 free,   2741,3 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    969,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1187600   1,1g   2800 R  93,8  29,6   1:03.72 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1205420   1,1g   2800 R 100,0  30,0   1:04.66 mem2.ba+
+  98590 mirr      20   0 1203044   1,1g   2800 R  93,8  29,9   1:04.53 mem.bash
+   1540 mirr      20   0 5190284 121996  47776 S  37,5   3,0  18:24.54 gnome-s+
+   1826 mirr      39  19  647496   2752   2316 S   6,2   0,1   0:00.89 tracker+
+   2112 mirr      20   0 1142656  90972  24876 S   6,2   2,3   3:04.67 nautilus
+
+___Info in Сб 27 апр 2024 07:49:44 UTC
+	System mem params
+MiB Mem :   3911,2 total,    886,4 free,   2815,0 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    897,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1224692   1,2g   2800 R  93,3  30,5   1:05.69 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1240400   1,2g   2800 R  93,8  30,9   1:06.52 mem.bash
+  98591 mirr      20   0 1243040   1,2g   2800 R  93,8  30,9   1:06.66 mem2.ba+
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:49:46 UTC
+	System mem params
+MiB Mem :   3911,2 total,    812,4 free,   2889,0 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    823,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1261652   1,2g   2800 R 100,0  31,4   1:07.69 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1277228   1,2g   2800 R 100,0  31,8   1:08.50 mem.bash
+  98591 mirr      20   0 1279868   1,2g   2800 R 100,0  31,9   1:08.63 mem2.ba+
+   2112 mirr      20   0 1142656  90972  24876 S   6,2   2,3   3:04.88 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:49:48 UTC
+	System mem params
+MiB Mem :   3911,2 total,    744,9 free,   2956,4 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    756,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1296896   1,2g   2800 R  93,8  32,3   1:09.66 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1315244   1,3g   2800 R 100,0  32,7   1:10.61 mem2.ba+
+  98590 mirr      20   0 1312472   1,2g   2800 R  93,8  32,7   1:10.47 mem.bash
+   2112 mirr      20   0 1142656  90972  24876 S  12,5   2,3   3:05.00 nautilus
+   1540 mirr      20   0 5190284 121952  47732 S   6,2   3,0  18:25.01 gnome-s+
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:49:50 UTC
+	System mem params
+MiB Mem :   3911,2 total,    670,2 free,   3031,2 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    683,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1334120   1,3g   2800 R 100,0  33,2   1:11.64 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1346396   1,3g   2800 R  93,8  33,5   1:12.48 mem.bash
+  98591 mirr      20   0 1349300   1,3g   2800 R  93,8  33,6   1:12.62 mem2.ba+
+    222 root       0 -20       0      0      0 I   6,2   0,0   0:00.17 kworker+
+   1540 mirr      20   0 5190284 122016  47796 S   6,2   3,0  18:25.22 gnome-s+
+   2112 mirr      20   0 1142656  91016  24916 S   6,2   2,3   3:05.11 nautilus
+
+___Info in Сб 27 апр 2024 07:49:52 UTC
+	System mem params
+MiB Mem :   3911,2 total,    604,9 free,   3096,4 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    617,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1366328   1,3g   2800 R  94,1  34,0   1:13.66 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1380980   1,3g   2800 R 100,0  34,4   1:14.48 mem.bash
+  98591 mirr      20   0 1384016   1,3g   2800 R 100,0  34,5   1:14.62 mem2.ba+
+   1540 mirr      20   0 5190284 122128  47908 S   6,2   3,0  18:25.39 gnome-s+
+   2112 mirr      20   0 1142656  91016  24916 S   6,2   2,3   3:05.23 nautilus
+  63915 root      20   0       0      0      0 I   6,2   0,0   0:00.60 kworker+
+
+___Info in Сб 27 апр 2024 07:49:54 UTC
+	System mem params
+MiB Mem :   3911,2 total,    532,1 free,   3169,3 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    543,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1402364   1,3g   2800 R 100,0  34,9   1:15.63 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1417676   1,3g   2800 R  93,8  35,3   1:16.45 mem.bash
+  98591 mirr      20   0 1420712   1,4g   2800 R  93,8  35,4   1:16.59 mem2.ba+
+   1540 mirr      20   0 5190284 122128  47908 S  12,5   3,0  18:25.56 gnome-s+
+   2112 mirr      20   0 1142656  91016  24916 S   6,2   2,3   3:05.34 nautilus
+ 103672 mirr      20   0    9948   3416   2820 R   6,2   0,1   0:00.01 top
+
+___Info in Сб 27 апр 2024 07:49:56 UTC
+	System mem params
+MiB Mem :   3911,2 total,    468,9 free,   3232,5 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    481,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1435760   1,4g   2800 R 100,0  35,8   1:17.62 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1449224   1,4g   2800 R 100,0  36,1   1:18.45 mem.bash
+  98591 mirr      20   0 1451996   1,4g   2800 R 100,0  36,2   1:18.59 mem2.ba+
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:49:58 UTC
+	System mem params
+MiB Mem :   3911,2 total,    410,8 free,   3290,6 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    422,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1464008   1,4g   2800 R  93,8  36,5   1:19.55 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1481696   1,4g   2800 R  93,8  36,9   1:20.57 mem2.ba+
+  98590 mirr      20   0 1478528   1,4g   2800 R  87,5  36,8   1:20.37 mem.bash
+   1540 mirr      20   0 5194700 122904  48684 S   6,2   3,1  18:25.93 gnome-s+
+   2112 mirr      20   0 1142656  91016  24916 S   6,2   2,3   3:05.60 nautilus
+  10222 mirr      20   0    6992   2584   2384 S   6,2   0,1   0:03.98 bash
+
+___Info in Сб 27 апр 2024 07:50:00 UTC
+	System mem params
+MiB Mem :   3911,2 total,    360,8 free,   3340,6 used,    209,8 buff/cache
+MiB Swap:   3911,0 total,   3361,7 free,    549,3 used.    377,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1491728   1,4g   2800 R  81,2  37,1   1:21.45 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1502288   1,4g   2800 R  93,8  37,4   1:22.31 mem.bash
+  98591 mirr      20   0 1506116   1,4g   2800 R  87,5  37,5   1:22.55 mem2.ba+
+   1540 mirr      20   0 5194868 125908  51688 R  43,8   3,1  18:27.35 gnome-s+
+    773 root      20   0 1466116  14168   8124 S   6,2   0,4   0:28.66 snapd
+    776 root      20   0  237160   2248   1944 S   6,2   0,1   0:00.80 account+
+
+___Info in Сб 27 апр 2024 07:50:02 UTC
+	System mem params
+MiB Mem :   3911,2 total,    305,0 free,   3396,3 used,    209,9 buff/cache
+MiB Swap:   3911,0 total,   3362,9 free,    548,0 used.    324,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1518260   1,4g   2800 R 100,0  37,8   1:23.42 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190300 123088  47696 S 137,5   3,1  18:29.40 gnome-s+
+  98590 mirr      20   0 1529612   1,5g   2800 R 100,0  38,1   1:24.21 mem.bash
+  98591 mirr      20   0 1533572   1,5g   2800 R 100,0  38,2   1:24.47 mem2.ba+
+   2112 mirr      20   0 1146060  94360  24956 S  12,5   2,4   3:06.28 nautilus
+  72387 mirr      20   0  577292  46576  24776 S  12,5   1,2   0:22.09 gedit
+
+___Info in Сб 27 апр 2024 07:50:04 UTC
+	System mem params
+MiB Mem :   3911,2 total,    248,1 free,   3453,2 used,    209,9 buff/cache
+MiB Swap:   3911,0 total,   3362,9 free,    548,0 used.    267,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1547432   1,5g   2800 R 100,0  38,5   1:25.38 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1559708   1,5g   2800 R 100,0  38,8   1:26.27 mem.bash
+  98591 mirr      20   0 1563536   1,5g   2800 R 100,0  38,9   1:26.54 mem2.ba+
+   1540 mirr      20   0 5190300 123236  47840 S  93,8   3,1  18:31.35 gnome-s+
+  72387 mirr      20   0  577660  47112  24816 R  37,5   1,2   0:22.70 gedit
+   2112 mirr      20   0 1146060  94360  24956 S   6,2   2,4   3:06.44 nautilus
+
+___Info in Сб 27 апр 2024 07:50:06 UTC
+	System mem params
+MiB Mem :   3911,2 total,    192,0 free,   3509,3 used,    209,9 buff/cache
+MiB Swap:   3911,0 total,   3362,9 free,    548,0 used.    202,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1577396   1,5g   2800 R  93,8  39,3   1:27.40 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1596404   1,5g   2800 R 100,0  39,8   1:28.45 mem2.ba+
+  98590 mirr      20   0 1593236   1,5g   2800 R  93,8  39,7   1:28.23 mem.bash
+   1540 mirr      20   0 5194716 125776  50356 S  68,8   3,1  18:32.62 gnome-s+
+   2112 mirr      20   0 1146060  94360  24956 S  12,5   2,4   3:06.67 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:50:08 UTC
+	System mem params
+MiB Mem :   3911,2 total,    123,6 free,   3577,7 used,    209,9 buff/cache
+MiB Swap:   3911,0 total,   3362,9 free,    548,0 used.    132,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1611848   1,5g   2800 R 100,0  40,1   1:29.35 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1628480   1,5g   2800 R 100,0  40,6   1:30.17 mem.bash
+  98591 mirr      20   0 1631780   1,6g   2800 R 100,0  40,6   1:30.40 mem2.ba+
+   1540 mirr      20   0 5190300 123232  47812 S  80,0   3,1  18:33.32 gnome-s+
+   2112 mirr      20   0 1146060  94360  24956 S  13,3   2,4   3:06.86 nautilus
+      1 root      20   0  167220   5064   3816 S   0,0   0,1   0:03.23 systemd
+
+___Info in Сб 27 апр 2024 07:50:10 UTC
+	System mem params
+MiB Mem :   3911,2 total,     63,4 free,   3644,5 used,    203,2 buff/cache
+MiB Swap:   3911,0 total,   3362,4 free,    548,5 used.     79,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1647752   1,6g   2800 R 100,0  41,0   1:31.34 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190300 122896  47716 S 135,3   3,1  18:34.69 gnome-s+
+  98591 mirr      20   0 1663064   1,6g   2800 R  88,2  41,4   1:32.42 mem2.ba+
+  98590 mirr      20   0 1659896   1,6g   2800 R  82,4  41,3   1:32.19 mem.bash
+   2112 mirr      20   0 1146060  94384  24956 S  17,6   2,4   3:07.13 nautilus
+    105 root      20   0       0      0      0 S  11,8   0,0   3:25.18 kswapd0
+
+___Info in Сб 27 апр 2024 07:50:13 UTC
+	System mem params
+MiB Mem :   3911,2 total,     64,2 free,   3688,9 used,    158,0 buff/cache
+MiB Swap:   3911,0 total,   3357,7 free,    553,3 used.     50,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1677584   1,6g   2800 R 100,0  41,8   1:33.28 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 113136  38868 S 125,0   2,8  18:35.93 gnome-s+
+  98590 mirr      20   0 1692104   1,6g   2800 R 100,0  42,1   1:34.12 mem.bash
+  98591 mirr      20   0 1695404   1,6g   2800 R  87,5  42,2   1:34.36 mem2.ba+
+   2112 mirr      20   0 1146060  89664  20284 S  25,0   2,2   3:07.46 nautilus
+ 104857 mirr      20   0    9948   3416   2820 R   6,2   0,1   0:00.01 top
+
+___Info in Сб 27 апр 2024 07:50:15 UTC
+	System mem params
+MiB Mem :   3911,2 total,     60,0 free,   3748,1 used,    103,0 buff/cache
+MiB Swap:   3911,0 total,   3336,2 free,    574,8 used.     29,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1710056   1,6g   2608 R  93,8  42,6   1:35.15 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1728668   1,6g   2608 R 100,0  42,8   1:35.97 mem.bash
+  98591 mirr      20   0 1733288   1,6g   2608 R 100,0  42,9   1:36.31 mem2.ba+
+   1540 mirr      20   0 5194716 100612  26424 S  20,0   2,5  18:36.89 gnome-s+
+   2112 mirr      20   0 1146060  82020  12664 S  13,3   2,0   3:07.59 nautilus
+ 104980 mirr      20   0    9948   3416   2820 R   6,7   0,1   0:00.01 top
+
+___Info in Сб 27 апр 2024 07:50:17 UTC
+	System mem params
+MiB Mem :   3911,2 total,     59,3 free,   3749,1 used,    102,7 buff/cache
+MiB Swap:   3911,0 total,   3267,2 free,    643,8 used.     21,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1751108   1,6g   2608 R 100,0  42,7   1:37.14 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1767476   1,6g   2608 R 100,0  42,7   1:37.95 mem.bash
+  98591 mirr      20   0 1772096   1,6g   2608 R  93,3  42,8   1:38.27 mem2.ba+
+   1540 mirr      20   0 5194716  98796  24944 R  26,7   2,5  18:37.15 gnome-s+
+   2112 mirr      20   0 1146060  82048  12692 S  20,0   2,0   3:07.78 nautilus
+    105 root      20   0       0      0      0 S  13,3   0,0   3:25.96 kswapd0
+
+___Info in Сб 27 апр 2024 07:50:19 UTC
+	System mem params
+MiB Mem :   3911,2 total,     58,4 free,   3724,0 used,    128,7 buff/cache
+MiB Swap:   3911,0 total,   3171,7 free,    739,3 used.     39,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1784768   1,6g   2608 R  76,5  42,4   1:39.07 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190284 111072  37152 R 106,7   2,8  18:38.57 gnome-s+
+  98591 mirr      20   0 1801928   1,6g   2608 R 100,0  42,4   1:40.26 mem2.ba+
+  98590 mirr      20   0 1795064   1,6g   2608 R  86,7  42,3   1:39.79 mem.bash
+   2112 mirr      20   0 1146060  85484  16024 R  13,3   2,1   3:08.18 nautilus
+  72387 mirr      20   0  577660  45072  22672 R  13,3   1,1   0:23.06 gedit
+
+___Info in Сб 27 апр 2024 07:50:21 UTC
+	System mem params
+MiB Mem :   3911,2 total,     59,4 free,   3716,6 used,    135,2 buff/cache
+MiB Swap:   3911,0 total,   3119,4 free,    791,6 used.     37,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1809056   1,6g   2608 R  88,2  42,2   1:40.84 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1822256   1,6g   2608 R  88,2  42,3   1:41.67 mem.bash
+  98591 mirr      20   0 1829648   1,6g   2608 R  88,2  42,5   1:42.18 mem2.ba+
+   1540 mirr      20   0 5194716 111440  37528 S  41,2   2,8  18:40.84 gnome-s+
+  72387 mirr      20   0  577660  45116  22668 S  17,6   1,1   0:23.37 gedit
+   2112 mirr      20   0 1146060  85432  16040 S  11,8   2,1   3:08.39 nautilus
+
+___Info in Сб 27 апр 2024 07:50:23 UTC
+	System mem params
+MiB Mem :   3911,2 total,     61,6 free,   3714,6 used,    135,0 buff/cache
+MiB Swap:   3911,0 total,   3051,7 free,    859,3 used.     37,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1843376   1,6g   2608 R  86,7  42,2   1:42.84 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190284 110328  36752 S 100,0   2,8  18:41.70 gnome-s+
+  98590 mirr      20   0 1858160   1,6g   2608 R  93,8  42,3   1:43.65 mem.bash
+  98591 mirr      20   0 1864628   1,6g   2608 R  93,8  42,4   1:44.11 mem2.ba+
+    105 root      20   0       0      0      0 S  12,5   0,0   3:26.45 kswapd0
+   2112 mirr      20   0 1146060  85188  16040 S  12,5   2,1   3:08.50 nautilus
+
+___Info in Сб 27 апр 2024 07:50:25 UTC
+	System mem params
+MiB Mem :   3911,2 total,     59,5 free,   3717,0 used,    134,7 buff/cache
+MiB Swap:   3911,0 total,   2993,5 free,    917,5 used.     39,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1875584   1,6g   2608 R 100,0  42,2   1:44.81 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1887728   1,6g   2608 R 100,0  42,3   1:45.62 mem.bash
+  98591 mirr      20   0 1893932   1,6g   2608 R 100,0  42,4   1:46.05 mem2.ba+
+   1540 mirr      20   0 5194700 114036  40804 R  50,0   2,8  18:43.07 gnome-s+
+    105 root      20   0       0      0      0 R  12,5   0,0   3:26.59 kswapd0
+     13 root      20   0       0      0      0 S   6,2   0,0   0:01.13 ksoftir+
+
+___Info in Сб 27 апр 2024 07:50:27 UTC
+	System mem params
+MiB Mem :   3911,2 total,     61,4 free,   3714,8 used,    135,0 buff/cache
+MiB Swap:   3911,0 total,   2932,9 free,    978,1 used.     41,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1903568   1,6g   2608 R 100,0  42,2   1:46.69 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 1924424   1,6g   2608 R 100,0  42,4   1:47.94 mem2.ba+
+  98590 mirr      20   0 1917956   1,6g   2608 R  93,3  42,3   1:47.49 mem.bash
+   1540 mirr      20   0 5190300 107216  34200 S  53,3   2,7  18:44.26 gnome-s+
+   2112 mirr      20   0 1146060  84500  16412 R  26,7   2,1   3:09.01 nautilus
+    105 root      20   0       0      0      0 S  13,3   0,0   3:26.74 kswapd0
+
+___Info in Сб 27 апр 2024 07:50:29 UTC
+	System mem params
+MiB Mem :   3911,2 total,     61,7 free,   3713,7 used,    135,8 buff/cache
+MiB Swap:   3911,0 total,   2858,8 free,   1052,2 used.     50,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1934456   1,6g   2608 R 100,0  42,2   1:48.57 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1942112   1,6g   2608 R 100,0  41,7   1:49.32 mem.bash
+  98591 mirr      20   0 1948316   1,6g   2608 R  87,5  41,9   1:49.76 mem2.ba+
+   1540 mirr      20   0 5194716 111376  37512 S  31,2   2,8  18:45.89 gnome-s+
+    105 root      20   0       0      0      0 S  25,0   0,0   3:27.07 kswapd0
+   2112 mirr      20   0 1146060  88192  20760 R  25,0   2,2   3:09.35 nautilus
+
+___Info in Сб 27 апр 2024 07:50:31 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,0 free,   3674,8 used,    145,4 buff/cache
+MiB Swap:   3911,0 total,   2791,3 free,   1119,7 used.     73,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1956236   1,6g   2608 R  64,7  41,7   1:50.47 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1964948   1,6g   2608 R 100,0  41,7   1:51.27 mem.bash
+  98591 mirr      20   0 1971020   1,6g   2608 R 100,0  41,8   1:51.65 mem2.ba+
+   1540 mirr      20   0 5190284 110764  36860 S  40,0   2,8  18:48.01 gnome-s+
+    105 root      20   0       0      0      0 R  13,3   0,0   3:27.24 kswapd0
+   2112 mirr      20   0 1146060  88248  20760 S   6,7   2,2   3:09.85 nautilus
+
+___Info in Сб 27 апр 2024 07:50:33 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,1 free,   3676,9 used,    145,2 buff/cache
+MiB Swap:   3911,0 total,   2747,9 free,   1163,1 used.     71,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1977752   1,6g   2608 R  81,2  41,7   1:52.35 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 1988840   1,6g   2608 R 100,0  41,8   1:53.24 mem.bash
+  98591 mirr      20   0 1994648   1,6g   2608 R  93,8  41,9   1:53.65 mem2.ba+
+   1540 mirr      20   0 5194700 113284  39388 S  62,5   2,8  18:49.08 gnome-s+
+   2112 mirr      20   0 1146060  88240  20756 S  37,5   2,2   3:10.22 nautilus
+   1364 root      20   0   86612   3212   2840 S   6,2   0,1   0:14.34 spice-v+
+
+___Info in Сб 27 апр 2024 07:50:35 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,5 free,   3674,8 used,    144,8 buff/cache
+MiB Swap:   3911,0 total,   2699,8 free,   1211,2 used.     74,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 1999268   1,6g   2608 R  93,3  41,7   1:54.16 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 110700  36776 S 113,3   2,8  18:50.69 gnome-s+
+  98591 mirr      20   0 2019464   1,6g   2608 R 100,0  41,9   1:55.42 mem2.ba+
+  98590 mirr      20   0 2013656   1,6g   2608 R 100,0  41,7   1:54.98 mem.bash
+  72387 mirr      20   0  577660  44388  21788 R  26,7   1,1   0:24.93 gedit
+   2112 mirr      20   0 1146060  88244  20756 S   6,7   2,2   3:10.63 nautilus
+
+___Info in Сб 27 апр 2024 07:50:37 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,3 free,   3676,2 used,    143,7 buff/cache
+MiB Swap:   3911,0 total,   2644,1 free,   1266,9 used.     73,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2029892   1,6g   2608 R  93,8  41,7   1:56.07 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2041640   1,6g   2608 R 100,0  41,7   1:56.89 mem.bash
+  98591 mirr      20   0 2046260   1,6g   2608 R  86,7  41,8   1:57.26 mem2.ba+
+   1540 mirr      20   0 5190300 110584  36692 S  60,0   2,8  18:52.25 gnome-s+
+    105 root      20   0       0      0      0 S  20,0   0,0   3:27.81 kswapd0
+  72387 mirr      20   0  577660  44344  21748 R  20,0   1,1   0:25.34 gedit
+
+___Info in Сб 27 апр 2024 07:50:39 UTC
+	System mem params
+MiB Mem :   3911,2 total,     83,4 free,   3685,3 used,    142,5 buff/cache
+MiB Swap:   3911,0 total,   2572,8 free,   1338,2 used.     71,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2063024   1,6g   2608 R 100,0  41,7   1:58.05 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2084540   1,6g   2608 R 100,0  41,9   1:59.20 mem2.ba+
+  98590 mirr      20   0 2080052   1,6g   2608 R  93,8  41,8   1:58.84 mem.bash
+   1540 mirr      20   0 5194716 114640  40764 S  18,8   2,9  18:52.67 gnome-s+
+    105 root      20   0       0      0      0 S  12,5   0,0   3:28.00 kswapd0
+   2112 mirr      20   0 1146060  88244  20756 S   6,2   2,2   3:10.93 nautilus
+
+___Info in Сб 27 апр 2024 07:50:41 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,7 free,   3683,6 used,    139,9 buff/cache
+MiB Swap:   3911,0 total,   2487,0 free,   1424,0 used.     70,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2107508   1,6g   2608 R 100,0  41,7   2:00.00 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2126120   1,6g   2608 R 100,0  41,8   2:00.80 mem.bash
+  98591 mirr      20   0 2130476   1,6g   2608 R 100,0  41,9   2:01.16 mem2.ba+
+    105 root      20   0       0      0      0 S   6,7   0,0   3:28.19 kswapd0
+   1540 mirr      20   0 5194716 112052  38364 S   6,7   2,8  18:52.79 gnome-s+
+   2112 mirr      20   0 1146060  88232  20756 S   6,7   2,2   3:11.00 nautilus
+
+___Info in Сб 27 апр 2024 07:50:43 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,9 free,   3679,6 used,    140,7 buff/cache
+MiB Swap:   3911,0 total,   2410,6 free,   1500,4 used.     71,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2150012   1,6g   2608 R  86,7  41,7   2:01.95 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2160968   1,6g   2608 R 100,0  41,7   2:02.76 mem.bash
+  98591 mirr      20   0 2165192   1,6g   2608 R 100,0  41,8   2:03.10 mem2.ba+
+   1540 mirr      20   0 5194716 110836  37176 S  86,7   2,8  18:54.22 gnome-s+
+    105 root      20   0       0      0      0 S  20,0   0,0   3:28.40 kswapd0
+  72387 mirr      20   0  577660  44104  21532 S  13,3   1,1   0:25.74 gedit
+
+___Info in Сб 27 апр 2024 07:50:45 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,2 free,   3683,1 used,    138,9 buff/cache
+MiB Swap:   3911,0 total,   2353,7 free,   1557,3 used.     66,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2179448   1,6g   2608 R  93,3  41,7   2:03.87 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2193836   1,6g   2608 R  93,8  41,8   2:04.71 mem.bash
+  98591 mirr      20   0 2199380   1,6g   2608 R  93,8  41,9   2:05.12 mem2.ba+
+   1540 mirr      20   0 5194700 110740  37216 R  18,8   2,8  18:55.04 gnome-s+
+   2112 mirr      20   0 1146060  87888  20428 S  12,5   2,2   3:11.23 nautilus
+    105 root      20   0       0      0      0 S   6,2   0,0   3:28.59 kswapd0
+
+___Info in Сб 27 апр 2024 07:50:47 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,0 free,   3684,1 used,    137,1 buff/cache
+MiB Swap:   3911,0 total,   2295,3 free,   1615,7 used.     68,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2209940   1,6g   2608 R  93,8  41,8   2:05.79 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194700 111116  37416 S 120,0   2,8  18:56.74 gnome-s+
+  98590 mirr      20   0 2220500   1,6g   2608 R 100,0  41,7   2:06.59 mem.bash
+  98591 mirr      20   0 2228156   1,6g   2608 R 100,0  41,9   2:07.15 mem2.ba+
+   2112 mirr      20   0 1146060  87856  20416 S  33,3   2,2   3:11.71 nautilus
+     14 root      20   0       0      0      0 I   6,7   0,0   0:07.26 rcu_sch+
+
+___Info in Сб 27 апр 2024 07:50:50 UTC
+	System mem params
+MiB Mem :   3911,2 total,     86,5 free,   3689,0 used,    135,7 buff/cache
+MiB Swap:   3911,0 total,   2241,9 free,   1669,1 used.     67,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2236472   1,6g   2608 R  82,4  41,8   2:07.68 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2247560   1,6g   2608 R 100,0  41,7   2:08.47 mem.bash
+  98591 mirr      20   0 2255216   1,6g   2608 R  93,3  41,9   2:09.00 mem2.ba+
+   1540 mirr      20   0 5194700 113020  39336 R  73,3   2,8  18:58.77 gnome-s+
+   2112 mirr      20   0 1146060  87532  20092 R  13,3   2,2   3:11.90 nautilus
+    105 root      20   0       0      0      0 S   6,7   0,0   3:29.04 kswapd0
+
+___Info in Сб 27 апр 2024 07:50:52 UTC
+	System mem params
+MiB Mem :   3911,2 total,     86,8 free,   3690,4 used,    134,0 buff/cache
+MiB Swap:   3911,0 total,   2185,5 free,   1725,5 used.     68,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2265248   1,6g   2608 R  66,7  41,7   2:09.61 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2277524   1,6g   2608 R 100,0  41,8   2:10.40 mem.bash
+  98591 mirr      20   0 2285840   1,6g   2608 R 100,0  42,0   2:11.00 mem2.ba+
+   1540 mirr      20   0 5190284 108984  35364 S  60,0   2,7  19:00.42 gnome-s+
+  72387 mirr      20   0  643196  43720  20968 S  20,0   1,1   0:26.79 gedit
+   2112 mirr      20   0 1146060  87156  19736 S  13,3   2,2   3:12.07 nautilus
+
+___Info in Сб 27 апр 2024 07:50:54 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,2 free,   3688,9 used,    132,1 buff/cache
+MiB Swap:   3911,0 total,   2125,0 free,   1786,0 used.     66,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2294816   1,6g   2608 R  93,3  41,7   2:11.53 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2310788   1,6g   2608 R 100,0  41,8   2:12.36 mem.bash
+  98591 mirr      20   0 2319104   1,6g   2608 R  93,8  42,0   2:12.94 mem2.ba+
+   1540 mirr      20   0 5194700 110920  37496 R  18,8   2,8  19:01.39 gnome-s+
+    105 root      20   0       0      0      0 R  12,5   0,0   3:29.47 kswapd0
+  72387 mirr      20   0  643196  43052  20300 R   6,2   1,1   0:26.97 gedit
+
+___Info in Сб 27 апр 2024 07:50:56 UTC
+	System mem params
+MiB Mem :   3911,2 total,     88,3 free,   3692,3 used,    130,6 buff/cache
+MiB Swap:   3911,0 total,   2071,7 free,   1839,3 used.     65,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2326628   1,6g   2608 R  93,8  41,7   2:13.45 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2345240   1,6g   2608 R  93,8  41,9   2:14.95 mem2.ba+
+  98590 mirr      20   0 2336660   1,6g   2608 R  87,5  41,7   2:14.33 mem.bash
+    105 root      20   0       0      0      0 S  31,2   0,0   3:29.69 kswapd0
+   1540 mirr      20   0 5194700 110448  37144 S  12,5   2,8  19:02.97 gnome-s+
+   2112 mirr      20   0 1146060  86680  19288 R  12,5   2,2   3:12.68 nautilus
+
+___Info in Сб 27 апр 2024 07:50:58 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,0 free,   3695,0 used,    129,1 buff/cache
+MiB Swap:   3911,0 total,   2015,1 free,   1895,9 used.     65,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2354348   1,6g   2608 R 100,0  41,7   2:15.47 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2368208   1,6g   2608 R 100,0  41,8   2:16.28 mem.bash
+  98591 mirr      20   0 2377184   1,6g   2608 R 100,0  42,1   2:16.92 mem2.ba+
+   1540 mirr      20   0 5190284 106996  33872 S  26,7   2,7  19:03.79 gnome-s+
+   2112 mirr      20   0 1146060  86596  19216 S   6,7   2,2   3:12.93 nautilus
+      1 root      20   0  167220   4780   3612 S   0,0   0,1   0:03.24 systemd
+
+___Info in Сб 27 апр 2024 07:51:00 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,3 free,   3694,4 used,    127,5 buff/cache
+MiB Swap:   3911,0 total,   1944,7 free,   1966,3 used.     63,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2391044   1,6g   2608 R 100,0  41,7   2:17.45 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2414276   1,6g   2608 R 100,0  42,0   2:18.90 mem2.ba+
+  98590 mirr      20   0 2405564   1,6g   2608 R  93,3  41,8   2:18.29 mem.bash
+    105 root      20   0       0      0      0 S  33,3   0,0   3:30.15 kswapd0
+   1540 mirr      20   0 5190284 102980  29896 S  26,7   2,6  19:04.02 gnome-s+
+   2112 mirr      20   0 1146060  86008  18656 S  26,7   2,1   3:13.08 nautilus
+
+___Info in Сб 27 апр 2024 07:51:02 UTC
+	System mem params
+MiB Mem :   3911,2 total,     92,9 free,   3685,2 used,    133,1 buff/cache
+MiB Swap:   3911,0 total,   1880,0 free,   2031,0 used.     69,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2421008   1,6g   2608 R  72,2  41,7   2:19.46 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2436980   1,6g   2608 R 100,0  41,8   2:20.29 mem.bash
+  98591 mirr      20   0 2445692   1,6g   2608 R 100,0  42,0   2:20.89 mem2.ba+
+   1540 mirr      20   0 5190284 104740  31700 S  13,3   2,6  19:04.19 gnome-s+
+    105 root      20   0       0      0      0 S   6,7   0,0   3:30.41 kswapd0
+   2112 mirr      20   0 1146060  85384  18172 S   6,7   2,1   3:13.22 nautilus
+
+___Info in Сб 27 апр 2024 07:51:04 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,4 free,   3689,2 used,    131,5 buff/cache
+MiB Swap:   3911,0 total,   1803,6 free,   2107,4 used.     67,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2461796   1,6g   2608 R  93,8  41,8   2:21.44 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2476580   1,6g   2608 R  93,8  41,8   2:22.26 mem.bash
+  98591 mirr      20   0 2485424   1,6g   2608 R  93,8  42,0   2:22.88 mem2.ba+
+   1540 mirr      20   0 5190284 101848  28896 S  25,0   2,5  19:04.33 gnome-s+
+   2112 mirr      20   0 1146060  84916  17848 S  12,5   2,1   3:13.36 nautilus
+    105 root      20   0       0      0      0 S   6,2   0,0   3:30.66 kswapd0
+
+___Info in Сб 27 апр 2024 07:51:06 UTC
+	System mem params
+MiB Mem :   3911,2 total,     88,0 free,   3692,3 used,    130,9 buff/cache
+MiB Swap:   3911,0 total,   1762,6 free,   2148,4 used.     67,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2484500   1,6g   2608 R  88,2  41,7   2:23.25 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2498228   1,6g   2608 R  93,8  41,8   2:24.12 mem.bash
+  98591 mirr      20   0 2507072   1,6g   2608 R  87,5  42,0   2:24.78 mem2.ba+
+   1540 mirr      20   0 5190284 104160  31304 S  18,8   2,6  19:04.98 gnome-s+
+    105 root      20   0       0      0      0 S   6,2   0,0   3:30.98 kswapd0
+   2112 mirr      20   0 1146060  84356  17652 S   6,2   2,1   3:13.75 nautilus
+
+___Info in Сб 27 апр 2024 07:51:08 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,4 free,   3692,3 used,    129,4 buff/cache
+MiB Swap:   3911,0 total,   1699,5 free,   2211,5 used.     57,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2519744   1,6g   2608 R  93,8  41,8   2:25.28 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2534924   1,6g   2608 R 100,0  41,8   2:26.14 mem.bash
+  98591 mirr      20   0 2543240   1,6g   2608 R  93,8  42,0   2:26.76 mem2.ba+
+    105 root      20   0       0      0      0 S  12,5   0,0   3:31.23 kswapd0
+   1540 mirr      20   0 5190284 103676  30860 S  12,5   2,6  19:05.14 gnome-s+
+   1431 mirr      20   0   20944   2476   2424 S   6,2   0,1   0:00.87 pipewir+
+
+___Info in Сб 27 апр 2024 07:51:10 UTC
+	System mem params
+MiB Mem :   3911,2 total,     81,6 free,   3701,9 used,    127,7 buff/cache
+MiB Swap:   3911,0 total,   1622,2 free,   2288,8 used.     62,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2556836   1,6g   2608 R 100,0  41,8   2:27.27 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190316 101904  29080 S  93,3   2,5  19:05.88 gnome-s+
+  98591 mirr      20   0 2580200   1,6g   2608 R  86,7  42,0   2:28.74 mem2.ba+
+  98590 mirr      20   0 2571092   1,6g   2608 R  80,0  41,8   2:28.04 mem.bash
+   2112 mirr      20   0 1146060  82928  16832 R  40,0   2,1   3:14.08 nautilus
+  72387 mirr      20   0  643196  39692  17016 S  33,3   1,0   0:27.15 gedit
+
+___Info in Сб 27 апр 2024 07:51:12 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,6 free,   3695,5 used,    126,1 buff/cache
+MiB Swap:   3911,0 total,   1563,4 free,   2347,6 used.     65,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2588780   1,6g   2608 R  93,8  41,8   2:29.18 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2610032   1,6g   2608 R 100,0  42,1   2:30.66 mem2.ba+
+  98590 mirr      20   0 2601320   1,6g   2608 R 100,0  41,9   2:29.99 mem.bash
+   1540 mirr      20   0 5194716 104696  31956 S  46,7   2,6  19:07.67 gnome-s+
+  72387 mirr      20   0  643196  39400  16724 S  33,3   1,0   0:27.45 gedit
+   2112 mirr      20   0 1146060  82588  16528 S   6,7   2,1   3:14.35 nautilus
+
+___Info in Сб 27 апр 2024 07:51:14 UTC
+	System mem params
+MiB Mem :   3911,2 total,     92,1 free,   3694,9 used,    124,2 buff/cache
+MiB Swap:   3911,0 total,   1508,6 free,   2402,4 used.     55,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2619008   1,6g   2608 R  93,8  41,7   2:31.10 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2634056   1,6g   2608 R 100,0  41,9   2:31.93 mem.bash
+  98591 mirr      20   0 2643956   1,6g   2608 R 100,0  42,1   2:32.67 mem2.ba+
+   1540 mirr      20   0 5194716 104284  31588 S  20,0   2,6  19:08.86 gnome-s+
+  72387 mirr      20   0  643196  38940  16280 S  13,3   1,0   0:27.77 gedit
+   2112 mirr      20   0 1146060  82060  16140 S   6,7   2,0   3:14.45 nautilus
+
+___Info in Сб 27 апр 2024 07:51:16 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,4 free,   3697,2 used,    122,6 buff/cache
+MiB Swap:   3911,0 total,   1436,4 free,   2474,6 used.     60,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2652932   1,6g   2608 R 100,0  41,7   2:33.07 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2679860   1,6g   2608 R 100,0  42,1   2:34.62 mem2.ba+
+  98590 mirr      20   0 2669828   1,6g   2608 R  93,3  41,9   2:33.89 mem.bash
+   1540 mirr      20   0 5194716 102036  30044 S  86,7   2,5  19:09.65 gnome-s+
+  72387 mirr      20   0  643196  38444  15828 S  26,7   1,0   0:28.04 gedit
+    105 root      20   0       0      0      0 S   6,7   0,0   3:32.16 kswapd0
+
+___Info in Сб 27 апр 2024 07:51:18 UTC
+	System mem params
+MiB Mem :   3911,2 total,     82,6 free,   3707,0 used,    121,6 buff/cache
+MiB Swap:   3911,0 total,   1369,9 free,   2541,1 used.     60,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2687912   1,6g   2608 R 100,0  41,9   2:35.03 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2704808   1,6g   2608 R 100,0  41,9   2:35.86 mem.bash
+  98591 mirr      20   0 2714840   1,6g   2608 R 100,0  42,1   2:36.59 mem2.ba+
+    105 root      20   0       0      0      0 S  13,3   0,0   3:32.40 kswapd0
+   1540 mirr      20   0 5194716 105100  33832 S  13,3   2,6  19:10.19 gnome-s+
+   2112 mirr      20   0 1146060  80572  15664 S   6,7   2,0   3:14.67 nautilus
+
+___Info in Сб 27 апр 2024 07:51:20 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,6 free,   3703,4 used,    120,2 buff/cache
+MiB Swap:   3911,0 total,   1292,4 free,   2618,6 used.     59,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2729096   1,6g   2608 R  93,8  41,9   2:37.01 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194716 103404  32684 S  93,3   2,6  19:10.73 gnome-s+
+  98591 mirr      20   0 2751140   1,6g   2608 R  93,3  42,1   2:38.53 mem2.ba+
+  98590 mirr      20   0 2740844   1,6g   2608 R  80,0  42,0   2:37.80 mem.bash
+  72387 mirr      20   0  643196  37936  15336 S  20,0   0,9   0:28.61 gedit
+    105 root      20   0       0      0      0 R  13,3   0,0   3:32.63 kswapd0
+
+___Info in Сб 27 апр 2024 07:51:22 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,3 free,   3700,9 used,    120,0 buff/cache
+MiB Swap:   3911,0 total,   1237,6 free,   2673,4 used.     59,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2759324   1,6g   2608 R 100,0  42,0   2:38.91 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5190300  99704  29380 S 146,7   2,5  19:12.01 gnome-s+
+  98591 mirr      20   0 2782952   1,6g   2608 R 100,0  42,2   2:40.46 mem2.ba+
+  98590 mirr      20   0 2772392   1,6g   2608 R  93,3  42,0   2:39.71 mem.bash
+  72387 mirr      20   0  643196  37616  15156 S  26,7   0,9   0:28.86 gedit
+    105 root      20   0       0      0      0 S   6,7   0,0   3:32.88 kswapd0
+
+___Info in Сб 27 апр 2024 07:51:24 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,1 free,   3698,2 used,    123,0 buff/cache
+MiB Swap:   3911,0 total,   1165,8 free,   2745,1 used.     63,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2793116   1,6g   2608 R  93,8  42,0   2:40.87 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2806448   1,6g   2608 R 100,0  41,8   2:41.68 mem.bash
+  98591 mirr      20   0 2816348   1,6g   2608 R 100,0  41,9   2:42.40 mem2.ba+
+    773 root      20   0 1466116  14372   8180 S  60,0   0,4   0:30.26 snapd
+    105 root      20   0       0      0      0 R  26,7   0,0   3:33.19 kswapd0
+   1540 mirr      20   0 5190300  99244  29460 S  20,0   2,5  19:12.65 gnome-s+
+
+___Info in Сб 27 апр 2024 07:51:26 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,6 free,   3687,9 used,    133,8 buff/cache
+MiB Swap:   3911,0 total,   1075,5 free,   2835,5 used.     69,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2831264   1,6g   2608 R  93,8  41,8   2:42.83 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2849084   1,6g   2608 R 100,0  41,8   2:43.64 mem.bash
+  98591 mirr      20   0 2859380   1,6g   2608 R 100,0  42,0   2:44.37 mem2.ba+
+    105 root      20   0       0      0      0 S   6,7   0,0   3:33.43 kswapd0
+   1540 mirr      20   0 5194716 101304  32104 S   6,7   2,5  19:12.79 gnome-s+
+   2112 mirr      20   0 1146060  79596  15472 S   6,7   2,0   3:15.06 nautilus
+
+___Info in Сб 27 апр 2024 07:51:28 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,1 free,   3690,0 used,    134,1 buff/cache
+MiB Swap:   3911,0 total,   1007,4 free,   2903,6 used.     67,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2867960   1,6g   2608 R 100,0  41,7   2:44.77 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2889344   1,6g   2608 R 100,0  41,8   2:46.21 mem2.ba+
+  98590 mirr      20   0 2880236   1,6g   2608 R  81,2  41,6   2:45.57 mem.bash
+   1540 mirr      20   0 5194720 105712  33100 S  43,8   2,6  19:13.90 gnome-s+
+    105 root      20   0       0      0      0 S  25,0   0,0   3:33.72 kswapd0
+  72387 mirr      20   0  643196  37480  14992 S  12,5   0,9   0:29.40 gedit
+
+___Info in Сб 27 апр 2024 07:51:30 UTC
+	System mem params
+MiB Mem :   3911,2 total,     88,6 free,   3679,5 used,    143,1 buff/cache
+MiB Swap:   3911,0 total,    929,2 free,   2981,8 used.     72,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2901620   1,6g   2608 R  93,8  41,6   2:46.71 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 2925380   1,6g   2608 R 100,0  41,8   2:48.28 mem2.ba+
+  98590 mirr      20   0 2915876   1,6g   2608 R 100,0  41,6   2:47.60 mem.bash
+   1540 mirr      20   0 5190304 102008  29660 S  13,3   2,5  19:14.29 gnome-s+
+   2112 mirr      20   0 1146060  79592  15412 S  13,3   2,0   3:15.36 nautilus
+    105 root      20   0       0      0      0 S   6,7   0,0   3:34.05 kswapd0
+
+___Info in Сб 27 апр 2024 07:51:32 UTC
+	System mem params
+MiB Mem :   3911,2 total,     93,5 free,   3675,8 used,    141,9 buff/cache
+MiB Swap:   3911,0 total,    852,3 free,   3058,7 used.     73,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2940164   1,6g   2608 R 100,0  41,6   2:48.75 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 2957456   1,6g   2608 R 100,0  41,7   2:49.52 mem.bash
+  98591 mirr      20   0 2967752   1,6g   2608 R 100,0  41,9   2:50.24 mem2.ba+
+   1540 mirr      20   0 5194720 104608  32464 S   6,7   2,6  19:14.51 gnome-s+
+      1 root      20   0  167220   4536   3368 S   0,0   0,1   0:03.24 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:51:34 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,7 free,   3683,4 used,    140,1 buff/cache
+MiB Swap:   3911,0 total,    763,4 free,   3147,6 used.     73,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 2984648   1,6g   2608 R 100,0  41,6   2:50.69 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3003524   1,6g   2608 R 100,0  41,7   2:51.51 mem.bash
+  98591 mirr      20   0 3013820   1,6g   2608 R  93,8  41,9   2:52.22 mem2.ba+
+   1540 mirr      20   0 5194720 104804  33060 S  12,5   2,6  19:14.62 gnome-s+
+    105 root      20   0       0      0      0 S   6,2   0,0   3:34.55 kswapd0
+   2112 mirr      20   0 1146060  79688  15440 S   6,2   2,0   3:15.54 nautilus
+
+___Info in Сб 27 апр 2024 07:51:36 UTC
+	System mem params
+MiB Mem :   3911,2 total,     89,6 free,   3683,0 used,    138,6 buff/cache
+MiB Swap:   3911,0 total,    678,4 free,   3232,6 used.     68,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3030320   1,6g   2608 R 100,0  41,6   2:52.66 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3048404   1,6g   2608 R 100,0  41,7   2:53.47 mem.bash
+  98591 mirr      20   0 3058700   1,6g   2608 R 100,0  41,9   2:54.19 mem2.ba+
+   1540 mirr      20   0 5194720 104660  32916 S  13,3   2,6  19:14.71 gnome-s+
+   2112 mirr      20   0 1146060  79628  15444 S   6,7   2,0   3:15.61 nautilus
+      1 root      20   0  167220   4508   3340 S   0,0   0,1   0:03.24 systemd
+
+___Info in Сб 27 апр 2024 07:51:38 UTC
+	System mem params
+MiB Mem :   3911,2 total,     88,4 free,   3686,4 used,    136,3 buff/cache
+MiB Swap:   3911,0 total,    597,0 free,   3314,0 used.     68,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3073748   1,6g   2608 R 100,0  41,7   2:54.63 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3091304   1,6g   2608 R 100,0  41,7   2:55.43 mem.bash
+  98591 mirr      20   0 3101600   1,6g   2608 R 100,0  41,9   2:56.15 mem2.ba+
+    105 root      20   0       0      0      0 S  13,3   0,0   3:35.10 kswapd0
+   1540 mirr      20   0 5194720 104244  32500 S   6,7   2,6  19:14.83 gnome-s+
+      1 root      20   0  167220   4508   3340 S   0,0   0,1   0:03.24 systemd
+
+___Info in Сб 27 апр 2024 07:51:40 UTC
+	System mem params
+MiB Mem :   3911,2 total,     93,6 free,   3683,8 used,    133,8 buff/cache
+MiB Swap:   3911,0 total,    512,5 free,   3398,5 used.     65,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3117836   1,6g   2608 R 100,0  41,6   2:56.60 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3135788   1,6g   2608 R 100,0  41,7   2:57.43 mem.bash
+  98591 mirr      20   0 3146084   1,6g   2608 R 100,0  41,9   2:58.13 mem2.ba+
+    105 root      20   0       0      0      0 S  12,5   0,0   3:35.37 kswapd0
+   1540 mirr      20   0 5194720 104568  32824 S  12,5   2,6  19:14.94 gnome-s+
+   2112 mirr      20   0 1146060  79448  15304 S   6,2   2,0   3:15.78 nautilus
+
+___Info in Сб 27 апр 2024 07:51:42 UTC
+	System mem params
+MiB Mem :   3911,2 total,     97,3 free,   3682,2 used,    131,7 buff/cache
+MiB Swap:   3911,0 total,    421,0 free,   3490,0 used.     67,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3163244   1,6g   2608 R 100,0  41,7   2:58.59 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3182780   1,6g   2608 R 100,0  41,7   2:59.42 mem.bash
+  98591 mirr      20   0 3193208   1,6g   2608 R 100,0  41,9   3:00.13 mem2.ba+
+    105 root      20   0       0      0      0 R  17,6   0,0   3:35.65 kswapd0
+   1540 mirr      20   0 5194720 104052  32320 S   5,9   2,6  19:15.03 gnome-s+
+   2112 mirr      20   0 1146060  79384  15268 S   5,9   2,0   3:15.86 nautilus
+
+___Info in Сб 27 апр 2024 07:51:44 UTC
+	System mem params
+MiB Mem :   3911,2 total,     85,3 free,   3696,4 used,    129,6 buff/cache
+MiB Swap:   3911,0 total,    341,8 free,   3569,2 used.     58,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3209840   1,6g   2608 R  93,8  41,7   3:00.58 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3228056   1,6g   2608 R 100,0  41,8   3:01.38 mem.bash
+  98591 mirr      20   0 3238616   1,6g   2608 R 100,0  42,0   3:02.09 mem2.ba+
+   1540 mirr      20   0 5194720 103944  32204 S   6,7   2,6  19:15.14 gnome-s+
+      1 root      20   0  167220   4508   3340 S   0,0   0,1   0:03.24 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:51:46 UTC
+	System mem params
+MiB Mem :   3911,2 total,     92,2 free,   3692,2 used,    126,8 buff/cache
+MiB Swap:   3911,0 total,    248,9 free,   3662,1 used.     63,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3255248   1,6g   2608 R  93,8  41,8   3:02.54 mem.bash
+
+	Info about first five processes
+  98591 mirr      20   0 3284420   1,6g   2608 R 100,0  42,0   3:04.06 mem2.ba+
+  98590 mirr      20   0 3273992   1,6g   2608 R 100,0  41,8   3:03.35 mem.bash
+    105 root      20   0       0      0      0 S  26,7   0,0   3:36.21 kswapd0
+   1540 mirr      20   0 5194720 103908  32164 S  13,3   2,6  19:15.24 gnome-s+
+   2112 mirr      20   0 1146060  79236  15208 S   6,7   2,0   3:16.00 nautilus
+
+___Info in Сб 27 апр 2024 07:51:48 UTC
+	System mem params
+MiB Mem :   3911,2 total,     85,6 free,   3701,0 used,    124,5 buff/cache
+MiB Swap:   3911,0 total,    161,0 free,   3750,0 used.     61,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3300392   1,6g   2608 R 100,0  41,8   3:04.51 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3318740   1,6g   2608 R 100,0  41,8   3:05.33 mem.bash
+  98591 mirr      20   0 3329168   1,6g   2608 R  93,8  42,0   3:06.04 mem2.ba+
+    105 root      20   0       0      0      0 S  12,5   0,0   3:36.51 kswapd0
+   1540 mirr      20   0 5194720 102516  30768 S   6,2   2,6  19:15.34 gnome-s+
+   2112 mirr      20   0 1146060  78704  14796 S   6,2   2,0   3:16.09 nautilus
+
+___Info in Сб 27 апр 2024 07:51:50 UTC
+	System mem params
+MiB Mem :   3911,2 total,     62,6 free,   3733,3 used,    115,3 buff/cache
+MiB Swap:   3911,0 total,    114,5 free,   3796,5 used.     33,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3345404   1,6g   2608 R  93,3  42,2   3:06.48 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3362828   1,6g   2608 R 100,0  42,4   3:07.32 mem.bash
+  98591 mirr      20   0 3373388   1,6g   2608 R  93,8  42,6   3:08.03 mem2.ba+
+    105 root      20   0       0      0      0 R   6,2   0,0   3:36.78 kswapd0
+   1540 mirr      20   0 5190304  96420  25416 S   6,2   2,4  19:15.44 gnome-s+
+   2112 mirr      20   0 1146060  77180  13716 S   6,2   1,9   3:16.18 nautilus
+
+___Info in Сб 27 апр 2024 07:51:52 UTC
+	System mem params
+MiB Mem :   3911,2 total,     62,8 free,   3747,1 used,    101,3 buff/cache
+MiB Swap:   3911,0 total,     49,4 free,   3861,6 used.     30,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3388568   1,6g   2476 R  93,8  42,6   3:08.48 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3406124   1,6g   2476 R 100,0  42,7   3:09.30 mem.bash
+  98591 mirr      20   0 3416420   1,6g   2476 R  93,3  42,8   3:10.00 mem2.ba+
+    105 root      20   0       0      0      0 S  46,7   0,0   3:37.22 kswapd0
+   1540 mirr      20   0 5194720  95972  26112 S  20,0   2,4  19:15.55 gnome-s+
+     46 root      20   0       0      0      0 S   6,7   0,0   0:06.41 kcompac+
+
+___Info in Сб 27 апр 2024 07:51:54 UTC
+	System mem params
+MiB Mem :   3911,2 total,     63,7 free,   3755,9 used,     91,5 buff/cache
+MiB Swap:   3911,0 total,      0,0 free,   3911,0 used.     14,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3431732   1,6g   2476 R 100,0  43,1   3:10.46 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3450608   1,6g   1728 R  88,2  42,3   3:11.53 mem.bash
+  98591 mirr      20   0       0      0      0 R  82,4   0,0   3:12.24 mem2.ba+
+    105 root      20   0       0      0      0 D  70,6   0,0   3:38.12 kswapd0
+   2112 mirr      20   0 1146432  73956  16960 S  17,6   1,8   3:16.48 nautilus
+    452 root      19  -1   48812  12356  11844 D  11,8   0,3   0:03.07 systemd+
+
+___Info in Сб 27 апр 2024 07:51:57 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1750,0 free,   2034,8 used,    126,3 buff/cache
+MiB Swap:   3911,0 total,   1587,6 free,   2323,4 used.   1717,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3475556   1,6g   1728 R 100,0  42,4   3:12.77 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3495356   1,6g   1728 R 100,0  42,9   3:13.58 mem.bash
+      1 root      20   0  167220   3364   2316 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par+
+
+___Info in Сб 27 апр 2024 07:51:59 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1701,1 free,   2083,5 used,    126,7 buff/cache
+MiB Swap:   3911,0 total,   1587,6 free,   2323,4 used.   1668,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3523604   1,7g   2080 R  93,8  43,6   3:14.73 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3543008   1,7g   2080 R 100,0  44,1   3:15.55 mem.bash
+   1540 mirr      20   0 5194720  87044  29564 S  13,3   2,2  19:15.92 gnome-s+
+   2112 mirr      20   0 1146432  75608  18564 S   6,7   1,9   3:16.68 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:01 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1651,6 free,   2131,6 used,    128,0 buff/cache
+MiB Swap:   3911,0 total,   1588,4 free,   2322,6 used.   1620,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3570464   1,7g   2080 R 100,0  44,8   3:16.70 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3590264   1,7g   2080 R  93,8  45,3   3:17.51 mem.bash
+   2112 mirr      20   0 1146432  75608  18564 S   6,2   1,9   3:16.76 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:52:03 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1599,4 free,   2177,8 used,    134,0 buff/cache
+MiB Swap:   3911,0 total,   1589,1 free,   2321,9 used.   1571,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3618908   1,8g   2080 R 100,0  46,0   3:18.68 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3638444   1,8g   2080 R 100,0  46,5   3:19.49 mem.bash
+ 111909 mirr      20   0    9948   3416   2820 R   6,2   0,1   0:00.01 top
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:52:05 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1546,5 free,   2221,3 used,    143,3 buff/cache
+MiB Swap:   3911,0 total,   1599,6 free,   2311,4 used.   1512,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3666032   1,8g   2080 R  93,8  47,2   3:20.66 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3683984   1,8g   2080 R 100,0  47,6   3:21.49 mem.bash
+   1540 mirr      20   0 5194720 106892  41680 S  53,3   2,7  19:16.97 gnome-s+
+   2112 mirr      20   0 1146432  75608  18564 S   6,7   1,9   3:16.93 nautilus
+  12195 mirr      20   0    6992   2528   2328 S   6,7   0,1   0:04.05 bash
+  72387 mirr      20   0  643196  42604  22304 S   6,7   1,1   0:29.82 gedit
+
+___Info in Сб 27 апр 2024 07:52:07 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1481,6 free,   2278,6 used,    151,0 buff/cache
+MiB Swap:   3911,0 total,   1599,6 free,   2311,4 used.   1460,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3711704   1,8g   2080 R  93,8  48,3   3:22.64 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194720 110260  44832 S 113,3   2,8  19:18.03 gnome-s+
+  98590 mirr      20   0 3730712   1,9g   2080 R 100,0  48,8   3:23.47 mem.bash
+  72387 mirr      20   0  643196  44580  22708 S  33,3   1,1   0:30.04 gedit
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:09 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1430,1 free,   2329,6 used,    151,6 buff/cache
+MiB Swap:   3911,0 total,   1601,4 free,   2309,6 used.   1409,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3756848   1,9g   2080 R  93,8  49,5   3:24.62 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3775328   1,9g   2080 R 100,0  49,9   3:25.43 mem.bash
+   1540 mirr      20   0 5194720 110928  45464 S  18,8   2,8  19:18.63 gnome-s+
+   2112 mirr      20   0 1146432  75692  18568 S   6,2   1,9   3:17.11 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:10 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1378,0 free,   2380,7 used,    152,5 buff/cache
+MiB Swap:   3911,0 total,   1605,4 free,   2305,6 used.   1359,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3801068   1,9g   2080 R  93,3  50,6   3:26.57 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3819416   1,9g   2080 R 100,0  51,0   3:27.37 mem.bash
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par+
+
+___Info in Сб 27 апр 2024 07:52:12 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1330,7 free,   2427,5 used,    152,9 buff/cache
+MiB Swap:   3911,0 total,   1607,1 free,   2303,9 used.   1311,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3846080   2,0g   2080 R 100,0  51,7   3:28.53 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194720 115356  44624 S 120,0   2,9  19:21.32 gnome-s+
+  98590 mirr      20   0 3865220   2,0g   2080 R 100,0  52,2   3:29.36 mem.bash
+  72387 mirr      20   0  643196  44684  22708 S  40,0   1,1   0:30.83 gedit
+   1364 root      20   0   86612   3600   3228 S   6,7   0,1   0:14.59 spice-v+
+   1688 mirr      20   0  312728   5888   4428 S   6,7   0,1   0:07.71 ibus-da+
+
+___Info in Сб 27 апр 2024 07:52:14 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1288,4 free,   2469,9 used,    152,9 buff/cache
+MiB Swap:   3911,0 total,   1607,1 free,   2303,9 used.   1269,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3890564   2,0g   2080 R 100,0  52,8   3:30.53 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 3908780   2,0g   2080 R 100,0  53,3   3:31.34 mem.bash
+   1540 mirr      20   0 5194720 113228  42480 S  93,8   2,8  19:23.24 gnome-s+
+  72387 mirr      20   0  643196  44684  22708 S  31,2   1,1   0:31.41 gedit
+   1364 root      20   0   86612   3600   3228 S   6,2   0,1   0:14.62 spice-v+
+   1688 mirr      20   0  312728   5888   4428 S   6,2   0,1   0:07.74 ibus-da+
+
+___Info in Сб 27 апр 2024 07:52:16 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1245,1 free,   2513,2 used,    152,9 buff/cache
+MiB Swap:   3911,0 total,   1607,1 free,   2303,9 used.   1225,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3935576   2,1g   2080 R  93,8  53,9   3:32.49 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194720 116992  46072 S 112,5   2,9  19:25.09 gnome-s+
+  98590 mirr      20   0 3954584   2,1g   2080 R 100,0  54,4   3:33.31 mem.bash
+  72387 mirr      20   0  643196  44684  22708 R  37,5   1,1   0:31.91 gedit
+   1688 mirr      20   0  312728   5916   4428 S   6,2   0,1   0:07.76 ibus-da+
+   2112 mirr      20   0 1146432  75692  18568 S   6,2   1,9   3:17.47 nautilus
+
+___Info in Сб 27 апр 2024 07:52:18 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1196,9 free,   2561,4 used,    152,9 buff/cache
+MiB Swap:   3911,0 total,   1608,9 free,   2302,1 used.   1174,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 3981908   2,1g   2080 R 100,0  55,1   3:34.47 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4000916   2,1g   2080 R 100,0  55,6   3:35.27 mem.bash
+   1540 mirr      20   0 5194720 117304  46308 S  37,5   2,9  19:26.07 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:17.58 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:20 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1144,5 free,   2613,3 used,    153,5 buff/cache
+MiB Swap:   3911,0 total,   1609,1 free,   2301,9 used.   1125,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4029032   2,1g   2080 R 100,0  56,3   3:36.42 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4048436   2,2g   2080 R 100,0  56,7   3:37.23 mem.bash
+   1540 mirr      20   0 5194904 116164  45000 S  26,7   2,9  19:26.45 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:17.65 nautilus
+  72387 mirr      20   0  643380  45256  23188 S   6,7   1,1   0:32.19 gedit
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+
+___Info in Сб 27 апр 2024 07:52:22 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1097,5 free,   2659,9 used,    153,8 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.   1079,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4075496   2,2g   2080 R 100,0  57,4   3:38.39 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4093976   2,2g   2080 R 100,0  57,9   3:39.20 mem.bash
+   1540 mirr      20   0 5194720 118056  46784 S  33,3   2,9  19:27.19 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:17.75 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:24 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1053,2 free,   2704,2 used,    153,8 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.   1034,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4119584   2,2g   2080 R  93,8  58,5   3:40.35 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4139252   2,3g   2080 R  93,8  59,0   3:41.15 mem.bash
+   1540 mirr      20   0 5194720 118072  46796 S  18,8   2,9  19:27.49 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:17.87 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:26 UTC
+	System mem params
+MiB Mem :   3911,2 total,   1005,2 free,   2750,8 used,    155,2 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    987,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4166576   2,3g   2080 R  93,8  59,7   3:42.31 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4186640   2,3g   2080 R 100,0  60,2   3:43.15 mem.bash
+   1540 mirr      20   0 5194720 114852  43576 S   6,2   2,9  19:27.62 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:17.96 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:28 UTC
+	System mem params
+MiB Mem :   3911,2 total,    957,4 free,   2796,5 used,    157,2 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    940,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4214888   2,3g   2080 R  93,8  60,9   3:44.30 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4234028   2,3g   2080 R 100,0  61,4   3:45.12 mem.bash
+   1540 mirr      20   0 5194720 116704  45428 S   6,7   2,9  19:27.71 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:18.06 nautilus
+  20567 mirr      20   0  554328  27484  20224 S   6,7   0,7   0:09.93 gnome-t+
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+
+___Info in Сб 27 апр 2024 07:52:30 UTC
+	System mem params
+MiB Mem :   3911,2 total,    900,3 free,   2843,8 used,    167,1 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    887,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4262540   2,4g   2080 R  93,8  62,1   3:46.28 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4281152   2,4g   2080 R 100,0  62,6   3:47.21 mem.bash
+   1540 mirr      20   0 5194720 117968  46692 S  13,3   2,9  19:27.86 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:18.19 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:32 UTC
+	System mem params
+MiB Mem :   3911,2 total,    853,6 free,   2890,5 used,    167,1 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    841,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4306892   2,4g   2080 R 100,0  63,2   3:48.38 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4326560   2,4g   2080 R 100,0  63,7   3:49.18 mem.bash
+   1540 mirr      20   0 5194720 115820  44544 S   6,7   2,9  19:27.96 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:18.31 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:34 UTC
+	System mem params
+MiB Mem :   3911,2 total,    805,6 free,   2938,5 used,    167,0 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    794,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4354940   2,5g   2080 R 100,0  64,4   3:50.34 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4372892   2,5g   2080 R 100,0  64,9   3:51.15 mem.bash
+   1540 mirr      20   0 5194720 116788  45512 S   6,2   2,9  19:28.05 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:18.40 nautilus
+  20567 mirr      20   0  554328  27484  20224 S   6,2   0,7   0:09.95 gnome-t+
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+
+___Info in Сб 27 апр 2024 07:52:36 UTC
+	System mem params
+MiB Mem :   3911,2 total,    759,6 free,   2984,6 used,    167,0 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    747,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4400876   2,5g   2080 R 100,0  65,5   3:52.32 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4419620   2,5g   2080 R 100,0  66,0   3:53.11 mem.bash
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par+
+
+___Info in Сб 27 апр 2024 07:52:38 UTC
+	System mem params
+MiB Mem :   3911,2 total,    712,1 free,   3032,0 used,    167,1 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    700,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4447868   2,5g   2080 R 100,0  66,7   3:54.28 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4467668   2,6g   2080 R 100,0  67,2   3:55.10 mem.bash
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:18.60 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:52:40 UTC
+	System mem params
+MiB Mem :   3911,2 total,    664,4 free,   3079,7 used,    167,2 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    654,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4495916   2,6g   2080 R 100,0  67,9   3:56.26 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4512812   2,6g   2080 R  93,8  68,3   3:57.11 mem.bash
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:18.71 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:52:42 UTC
+	System mem params
+MiB Mem :   3911,2 total,    618,8 free,   3125,1 used,    167,2 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    606,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4541060   2,6g   2080 R  93,3  69,0   3:58.26 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4560728   2,7g   2080 R 100,0  69,5   3:59.07 mem.bash
+   1540 mirr      20   0 5194720 115948  44612 S   6,7   2,9  19:28.40 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:18.80 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:44 UTC
+	System mem params
+MiB Mem :   3911,2 total,    571,6 free,   3172,1 used,    167,5 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    559,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4588712   2,7g   2080 R 100,0  70,2   4:00.23 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4608248   2,7g   2080 R 100,0  70,7   4:01.03 mem.bash
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par+
+
+___Info in Сб 27 апр 2024 07:52:46 UTC
+	System mem params
+MiB Mem :   3911,2 total,    525,8 free,   3213,9 used,    171,5 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    515,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4636760   2,7g   2080 R 100,0  71,4   4:02.20 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4656296   2,7g   2080 R 100,0  71,9   4:03.00 mem.bash
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:18.98 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:52:48 UTC
+	System mem params
+MiB Mem :   3911,2 total,    479,1 free,   3260,7 used,    171,5 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    469,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4683620   2,8g   2080 R 100,0  72,6   4:04.16 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4703024   2,8g   2080 R  93,8  73,1   4:04.96 mem.bash
+   1540 mirr      20   0 5194720 115144  43808 S   6,2   2,9  19:28.59 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,2   2,0   3:19.10 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:50 UTC
+	System mem params
+MiB Mem :   3911,2 total,    432,3 free,   3307,4 used,    171,5 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    422,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4731536   2,8g   2080 R 100,0  73,8   4:06.12 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4750940   2,8g   2080 R 100,0  74,3   4:06.93 mem.bash
+   1540 mirr      20   0 5190304 114136  42800 S   6,7   2,8  19:28.68 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:19.18 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:52 UTC
+	System mem params
+MiB Mem :   3911,2 total,    384,6 free,   3355,1 used,    171,5 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    374,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4778660   2,9g   2080 R 100,0  75,0   4:08.08 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4798460   2,9g   2080 R 100,0  75,5   4:08.89 mem.bash
+   1540 mirr      20   0 5194720 115952  44616 S   6,7   2,9  19:28.78 gnome-s+
+   2112 mirr      20   0 1147256  78188  18696 S   6,7   2,0   3:19.26 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:54 UTC
+	System mem params
+MiB Mem :   3911,2 total,    335,6 free,   3403,7 used,    171,9 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    325,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4826180   2,9g   2080 R 100,0  76,2   4:10.06 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4844264   2,9g   2080 R 100,0  76,6   4:10.87 mem.bash
+   1540 mirr      20   0 5190304 114248  42912 S   6,7   2,9  19:28.87 gnome-s+
+   2112 mirr      20   0 1147404  78188  18696 S   6,7   2,0   3:19.38 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:56 UTC
+	System mem params
+MiB Mem :   3911,2 total,    289,8 free,   3449,5 used,    171,9 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    280,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4872776   3,0g   2080 R 100,0  77,3   4:12.04 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4892180   3,0g   2080 R 100,0  77,8   4:12.85 mem.bash
+   1540 mirr      20   0 5190304 114200  42864 S   6,7   2,9  19:28.97 gnome-s+
+   2112 mirr      20   0 1147404  78384  18696 S   6,7   2,0   3:19.46 nautilus
+      1 root      20   0  167220   4808   3760 S   0,0   0,1   0:03.26 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:52:58 UTC
+	System mem params
+MiB Mem :   3911,2 total,    245,3 free,   3494,0 used,    171,9 buff/cache
+MiB Swap:   3911,0 total,   1609,4 free,   2301,6 used.    237,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4918184   3,0g   2080 R 100,0  78,5   4:14.03 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4936796   3,0g   2080 R 100,0  78,9   4:14.82 mem.bash
+   1540 mirr      20   0 5190304 114116  42772 S  40,0   2,8  19:29.27 gnome-s+
+  72387 mirr      20   0  643196  45204  23128 R  13,3   1,1   0:32.52 gedit
+      1 root      20   0  167220   7260   4864 S   6,7   0,2   0:03.27 systemd
+    760 message+  20   0   11432   4480   3064 S   6,7   0,1   0:01.59 dbus-da+
+
+___Info in Сб 27 апр 2024 07:53:00 UTC
+	System mem params
+MiB Mem :   3911,2 total,    180,8 free,   3536,9 used,    193,5 buff/cache
+MiB Swap:   3911,0 total,   1610,6 free,   2300,4 used.    181,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 4963460   3,0g   2080 R 100,0  79,6   4:15.99 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 4982732   3,1g   2080 R 100,0  80,1   4:16.80 mem.bash
+   1540 mirr      20   0 5194720 117740  46364 S  80,0   2,9  19:30.04 gnome-s+
+  72387 mirr      20   0  643196  45204  23128 S  26,7   1,1   0:32.71 gedit
+   2112 mirr      20   0 1147628  78384  18696 S  13,3   2,0   3:19.70 nautilus
+   1688 mirr      20   0  312728   5916   4428 S   6,7   0,1   0:07.78 ibus-da+
+
+___Info in Сб 27 апр 2024 07:53:02 UTC
+	System mem params
+MiB Mem :   3911,2 total,    132,6 free,   3585,1 used,    193,5 buff/cache
+MiB Swap:   3911,0 total,   1610,6 free,   2300,4 used.    133,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5009924   3,1g   2080 R 100,0  80,8   4:17.97 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5028932   3,1g   2080 R 100,0  81,2   4:18.77 mem.bash
+   1540 mirr      20   0 5194720 116268  44888 S  53,3   2,9  19:30.85 gnome-s+
+   2112 mirr      20   0 1147628  78384  18696 S   6,7   2,0   3:19.80 nautilus
+  72387 mirr      20   0  643196  46016  23804 S   6,7   1,1   0:33.00 gedit
+      1 root      20   0  167220   7432   4884 S   0,0   0,2   0:03.29 systemd
+
+___Info in Сб 27 апр 2024 07:53:04 UTC
+	System mem params
+MiB Mem :   3911,2 total,     90,5 free,   3627,1 used,    193,5 buff/cache
+MiB Swap:   3911,0 total,   1610,6 free,   2300,4 used.     93,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5057708   3,1g   2080 R 100,0  81,9   4:19.93 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5077508   3,1g   2080 R 100,0  82,4   4:20.73 mem.bash
+   1540 mirr      20   0 5194720 114836  43452 S   6,7   2,9  19:31.08 gnome-s+
+   2112 mirr      20   0 1147784  78648  18696 S   6,7   2,0   3:19.87 nautilus
+      1 root      20   0  167220   7432   4884 S   0,0   0,2   0:03.29 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:06 UTC
+	System mem params
+MiB Mem :   3911,2 total,     62,7 free,   3654,6 used,    193,9 buff/cache
+MiB Swap:   3911,0 total,   1602,6 free,   2308,4 used.     73,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5103380   3,2g   2080 R 100,0  83,0   4:21.87 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5121860   3,2g   2080 R  93,8  83,2   4:22.70 mem.bash
+   1540 mirr      20   0 5190304 114388  42824 S  87,5   2,9  19:33.12 gnome-s+
+  72387 mirr      20   0  643196  46048  23804 S  18,8   1,1   0:33.50 gedit
+   2112 mirr      20   0 1147784  78752  18696 S   6,2   2,0   3:19.97 nautilus
+      1 root      20   0  167220   7432   4884 S   0,0   0,2   0:03.29 systemd
+
+___Info in Сб 27 апр 2024 07:53:08 UTC
+	System mem params
+MiB Mem :   3911,2 total,     70,4 free,   3649,0 used,    191,8 buff/cache
+MiB Swap:   3911,0 total,   1562,7 free,   2348,3 used.     69,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5148392   3,2g   2080 R  93,8  83,2   4:23.86 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5167400   3,2g   2080 R  93,3  83,2   4:24.65 mem.bash
+   1540 mirr      20   0 5194720 117756  46156 S  33,3   2,9  19:34.43 gnome-s+
+    105 root      20   0       0      0      0 S   6,7   0,0   3:38.40 kswapd0
+   2112 mirr      20   0 1147784  78752  18696 S   6,7   2,0   3:20.05 nautilus
+  72387 mirr      20   0  643196  46164  23804 S   6,7   1,2   0:33.72 gedit
+
+___Info in Сб 27 апр 2024 07:53:10 UTC
+	System mem params
+MiB Mem :   3911,2 total,     58,4 free,   3662,0 used,    190,8 buff/cache
+MiB Swap:   3911,0 total,   1520,4 free,   2390,6 used.     67,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5195252   3,2g   2080 R 100,0  83,2   4:25.82 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5214128   3,2g   2080 R 100,0  83,4   4:26.62 mem.bash
+   1540 mirr      20   0 5190304 114472  42832 S  12,5   2,9  19:35.03 gnome-s+
+    105 root      20   0       0      0      0 S   6,2   0,0   3:38.52 kswapd0
+   2112 mirr      20   0 1148008  78884  18696 S   6,2   2,0   3:20.15 nautilus
+  72387 mirr      20   0  643196  46148  23804 S   6,2   1,2   0:33.81 gedit
+
+___Info in Сб 27 апр 2024 07:53:12 UTC
+	System mem params
+MiB Mem :   3911,2 total,     76,5 free,   3646,5 used,    188,2 buff/cache
+MiB Swap:   3911,0 total,   1459,2 free,   2451,7 used.     85,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5240000   3,2g   2080 R 100,0  82,8   4:27.78 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5258612   3,2g   2080 R  93,8  83,0   4:28.59 mem.bash
+   1540 mirr      20   0 5194720 118592  46964 S  18,8   3,0  19:35.53 gnome-s+
+   2112 mirr      20   0 1148008  78876  18696 S   6,2   2,0   3:20.25 nautilus
+      1 root      20   0  167220   7732   5020 S   0,0   0,2   0:03.29 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:14 UTC
+	System mem params
+MiB Mem :   3911,2 total,     81,4 free,   3643,3 used,    186,5 buff/cache
+MiB Swap:   3911,0 total,   1417,8 free,   2493,2 used.     77,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5285804   3,2g   2080 R 100,0  82,9   4:29.76 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5304020   3,2g   2080 R 100,0  83,0   4:30.56 mem.bash
+   1540 mirr      20   0 5194720 118652  47044 S  40,0   3,0  19:35.84 gnome-s+
+    105 root      20   0       0      0      0 S  13,3   0,0   3:38.89 kswapd0
+   2112 mirr      20   0 1148008  78876  18696 S  13,3   2,0   3:20.37 nautilus
+  12195 mirr      20   0    6992   2528   2328 S   6,7   0,1   0:04.12 bash
+
+___Info in Сб 27 апр 2024 07:53:16 UTC
+	System mem params
+MiB Mem :   3911,2 total,     80,7 free,   3645,6 used,    184,8 buff/cache
+MiB Swap:   3911,0 total,   1369,5 free,   2541,5 used.     84,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5331476   3,2g   2080 R 100,0  82,9   4:31.73 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5351144   3,2g   2080 R  93,8  82,8   4:32.54 mem.bash
+    105 root      20   0       0      0      0 S   6,2   0,0   3:39.02 kswapd0
+      1 root      20   0  167220   7732   5020 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:53:18 UTC
+	System mem params
+MiB Mem :   3911,2 total,     70,1 free,   3657,6 used,    183,5 buff/cache
+MiB Swap:   3911,0 total,   1329,9 free,   2581,1 used.     80,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5379524   3,2g   2080 R 100,0  83,1   4:33.71 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5398796   3,2g   2080 R 100,0  83,0   4:34.55 mem.bash
+   2112 mirr      20   0 1148008  78784  18684 S   6,7   2,0   3:20.56 nautilus
+      1 root      20   0  167220   7732   5020 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:53:20 UTC
+	System mem params
+MiB Mem :   3911,2 total,     80,8 free,   3648,6 used,    181,7 buff/cache
+MiB Swap:   3911,0 total,   1285,3 free,   2625,7 used.     81,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5427044   3,2g   2080 R 100,0  83,1   4:35.70 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5446448   3,2g   2080 R  93,8  83,2   4:36.52 mem.bash
+   1540 mirr      20   0 5194720 117056  45536 S   6,2   2,9  19:36.05 gnome-s+
+   2112 mirr      20   0 1148008  78836  18756 S   6,2   2,0   3:20.65 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:22 UTC
+	System mem params
+MiB Mem :   3911,2 total,     78,1 free,   3654,5 used,    178,6 buff/cache
+MiB Swap:   3911,0 total,   1242,1 free,   2668,9 used.     77,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5474036   3,2g   2080 R 100,0  83,1   4:37.68 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5493572   3,2g   2080 R 100,0  83,3   4:38.48 mem.bash
+    105 root      20   0       0      0      0 S   6,2   0,0   3:39.36 kswapd0
+   2112 mirr      20   0 1148008  78800  18756 S   6,2   2,0   3:20.74 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:24 UTC
+	System mem params
+MiB Mem :   3911,2 total,     72,2 free,   3663,8 used,    175,2 buff/cache
+MiB Swap:   3911,0 total,   1199,0 free,   2712,0 used.     75,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5521556   3,2g   2080 R 100,0  83,2   4:39.64 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5541224   3,2g   2080 R  93,3  83,2   4:40.44 mem.bash
+    105 root      20   0       0      0      0 S  20,0   0,0   3:39.49 kswapd0
+   1540 mirr      20   0 5190304 114364  42960 S   6,7   2,9  19:36.16 gnome-s+
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:26 UTC
+	System mem params
+MiB Mem :   3911,2 total,     73,4 free,   3661,1 used,    176,7 buff/cache
+MiB Swap:   3911,0 total,   1152,1 free,   2758,9 used.     78,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5568548   3,2g   2080 R 100,0  83,2   4:41.60 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5587556   3,2g   2080 R  93,8  83,2   4:42.41 mem.bash
+    105 root      20   0       0      0      0 S   6,2   0,0   3:39.62 kswapd0
+   1540 mirr      20   0 5194720 116976  45592 S   6,2   2,9  19:36.21 gnome-s+
+   2112 mirr      20   0 1148340  79472  19204 S   6,2   2,0   3:20.92 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+
+___Info in Сб 27 апр 2024 07:53:28 UTC
+	System mem params
+MiB Mem :   3911,2 total,     74,2 free,   3666,3 used,    170,7 buff/cache
+MiB Swap:   3911,0 total,   1108,3 free,   2802,7 used.     76,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5614748   3,2g   2080 R 100,0  83,4   4:43.58 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5634812   3,2g   2080 R 100,0  83,4   4:44.40 mem.bash
+   1540 mirr      20   0 5194720 116504  45124 S  13,3   2,9  19:36.27 gnome-s+
+   2112 mirr      20   0 1148340  79472  19204 S   6,7   2,0   3:21.02 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:30 UTC
+	System mem params
+MiB Mem :   3911,2 total,     72,5 free,   3668,3 used,    170,4 buff/cache
+MiB Swap:   3911,0 total,   1056,1 free,   2854,9 used.     79,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5662928   3,2g   2080 R 100,0  83,3   4:45.56 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5681936   3,2g   2080 R  93,8  83,3   4:46.38 mem.bash
+    693 systemd+  20   0   14996   3356   3220 S   6,2   0,1   0:15.00 systemd+
+   2112 mirr      20   0 1148340  79436  19196 S   6,2   2,0   3:21.12 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:32 UTC
+	System mem params
+MiB Mem :   3911,2 total,     78,0 free,   3665,0 used,    168,1 buff/cache
+MiB Swap:   3911,0 total,   1025,0 free,   2886,0 used.     66,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5704244   3,2g   2080 R  93,8  83,1   4:47.48 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5723516   3,2g   2080 R 100,0  83,5   4:48.31 mem.bash
+   1540 mirr      20   0 5194720 116728  45412 S   6,2   2,9  19:36.49 gnome-s+
+   2112 mirr      20   0 1148844  79464  19104 S   6,2   2,0   3:21.43 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:34 UTC
+	System mem params
+MiB Mem :   3911,2 total,     77,6 free,   3667,1 used,    166,5 buff/cache
+MiB Swap:   3911,0 total,    983,0 free,   2928,0 used.     72,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5750840   3,2g   2080 R 100,0  83,3   4:49.47 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5770508   3,2g   2080 R  93,8  83,3   4:50.28 mem.bash
+    105 root      20   0       0      0      0 R  25,0   0,0   3:40.29 kswapd0
+   1540 mirr      20   0 5190304 114096  42800 S   6,2   2,8  19:36.61 gnome-s+
+   2112 mirr      20   0 1148844  79556  18948 S   6,2   2,0   3:21.53 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+
+___Info in Сб 27 апр 2024 07:53:36 UTC
+	System mem params
+MiB Mem :   3911,2 total,     79,0 free,   3668,2 used,    163,9 buff/cache
+MiB Swap:   3911,0 total,    937,6 free,   2973,4 used.     71,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5798492   3,2g   2080 R  93,8  83,4   4:51.44 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5818028   3,2g   2080 R 100,0  83,6   4:52.25 mem.bash
+   1540 mirr      20   0 5194720 114376  43112 S   6,7   2,9  19:36.72 gnome-s+
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:53:38 UTC
+	System mem params
+MiB Mem :   3911,2 total,     76,3 free,   3673,4 used,    161,4 buff/cache
+MiB Swap:   3911,0 total,    890,2 free,   3020,8 used.     72,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5845748   3,2g   2080 R  93,8  83,5   4:53.42 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5865416   3,2g   2080 R  93,8  83,6   4:54.23 mem.bash
+    105 root      20   0       0      0      0 S  12,5   0,0   3:40.57 kswapd0
+   1540 mirr      20   0 5194720 115540  44276 S   6,2   2,9  19:36.81 gnome-s+
+   2112 mirr      20   0 1149032  79300  18792 S   6,2   2,0   3:21.71 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+
+___Info in Сб 27 апр 2024 07:53:40 UTC
+	System mem params
+MiB Mem :   3911,2 total,     73,1 free,   3679,4 used,    158,7 buff/cache
+MiB Swap:   3911,0 total,    840,9 free,   3070,1 used.     78,1 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5894192   3,2g   2080 R 100,0  83,6   4:55.39 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5913728   3,2g   2080 R 100,0  83,6   4:56.22 mem.bash
+   2112 mirr      20   0 1149032  79068  18660 S  13,3   2,0   3:21.81 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:53:42 UTC
+	System mem params
+MiB Mem :   3911,2 total,     84,4 free,   3671,5 used,    155,2 buff/cache
+MiB Swap:   3911,0 total,    808,3 free,   3102,7 used.     64,9 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5941712   3,2g   2080 R 100,0  83,7   4:57.38 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 5961644   3,2g   2080 R 100,0  84,0   4:58.19 mem.bash
+   2112 mirr      20   0 1149168  78916  18604 S   6,7   2,0   3:21.89 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:53:43 UTC
+	System mem params
+MiB Mem :   3911,2 total,     81,4 free,   3677,4 used,    152,3 buff/cache
+MiB Swap:   3911,0 total,    762,8 free,   3148,2 used.     67,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 5989892   3,2g   2080 R 100,0  83,8   4:59.35 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6009560   3,2g   2080 R 100,0  83,8   5:00.16 mem.bash
+    105 root      20   0       0      0      0 S  20,0   0,0   3:40.96 kswapd0
+   1540 mirr      20   0 5194720 112676  41316 S   6,7   2,8  19:37.10 gnome-s+
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:45 UTC
+	System mem params
+MiB Mem :   3911,2 total,     76,6 free,   3684,7 used,    149,9 buff/cache
+MiB Swap:   3911,0 total,    705,2 free,   3205,8 used.     73,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6037808   3,2g   2080 R 100,0  83,8   5:01.32 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6056816   3,2g   2080 R 100,0  83,8   5:02.15 mem.bash
+   1540 mirr      20   0 5194720 109320  38320 S   6,2   2,7  19:37.19 gnome-s+
+   2112 mirr      20   0 1149500  77892  17616 S   6,2   1,9   3:22.07 nautilus
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:47 UTC
+	System mem params
+MiB Mem :   3911,2 total,     77,3 free,   3685,7 used,    148,1 buff/cache
+MiB Swap:   3911,0 total,    666,9 free,   3244,1 used.     66,6 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6084272   3,2g   2080 R 100,0  84,0   5:03.31 mem.bash
+
+	Info about first five processes
+   1540 mirr      20   0 5194704 111372  40420 S  93,8   2,8  19:37.73 gnome-s+
+  98590 mirr      20   0 6102884   3,2g   2080 R  87,5  84,0   5:04.12 mem.bash
+  72387 mirr      20   0  643196  44476  22300 R  37,5   1,1   0:34.18 gedit
+  20567 mirr      20   0  554328  27384  19948 S  18,8   0,7   0:10.10 gnome-t+
+   1688 mirr      20   0  312728   5764   4164 S   6,2   0,1   0:07.84 ibus-da+
+
+___Info in Сб 27 апр 2024 07:53:49 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,1 free,   3672,8 used,    147,2 buff/cache
+MiB Swap:   3911,0 total,    623,0 free,   3288,0 used.     65,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6128624   3,2g   2080 R  87,5  83,5   5:05.28 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6148424   3,2g   2080 R 100,0  84,0   5:06.09 mem.bash
+   1540 mirr      20   0 5194720 112312  41312 S  33,3   2,8  19:39.01 gnome-s+
+  77664 mirr      20   0   10080   3132   2576 S   6,7   0,1   0:01.91 top
+      1 root      20   0  167220   7856   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:51 UTC
+	System mem params
+MiB Mem :   3911,2 total,     84,3 free,   3681,3 used,    145,6 buff/cache
+MiB Swap:   3911,0 total,    585,7 free,   3325,3 used.     59,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6175748   3,2g   2080 R 100,0  83,9   5:07.26 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6195548   3,2g   2080 R 100,0  84,2   5:08.07 mem.bash
+   1540 mirr      20   0 5190304 107392  36624 S  13,3   2,7  19:39.27 gnome-s+
+   2112 mirr      20   0 1149500  76348  16428 S   6,7   1,9   3:22.38 nautilus
+      1 root      20   0  167220   7868   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:53:53 UTC
+	System mem params
+MiB Mem :   3911,2 total,     71,7 free,   3696,2 used,    143,3 buff/cache
+MiB Swap:   3911,0 total,    537,3 free,   3373,7 used.     62,4 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6223400   3,2g   2080 R 100,0  84,0   5:09.23 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6243332   3,2g   2080 R 100,0  83,9   5:10.04 mem.bash
+    773 root      20   0 1466116   8892   3140 S  13,3   0,2   0:30.59 snapd
+    105 root      20   0       0      0      0 S   6,7   0,0   3:41.67 kswapd0
+   2112 mirr      20   0 1149500  75784  15904 S   6,7   1,9   3:22.46 nautilus
+      1 root      20   0  167220   7868   5132 S   0,0   0,2   0:03.30 systemd
+
+___Info in Сб 27 апр 2024 07:53:55 UTC
+	System mem params
+MiB Mem :   3911,2 total,     72,3 free,   3692,4 used,    146,5 buff/cache
+MiB Swap:   3911,0 total,    496,0 free,   3415,0 used.     64,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6268940   3,2g   2080 R  93,8  84,0   5:11.20 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6285440   3,2g   2080 R 100,0  83,9   5:12.09 mem.bash
+   1540 mirr      20   0 5194720 107436  37232 S  12,5   2,7  19:39.52 gnome-s+
+   2112 mirr      20   0 1149680  75172  15500 S   6,2   1,9   3:22.69 nautilus
+  20567 mirr      20   0  554328  25540  18008 S   6,2   0,6   0:10.22 gnome-t+
+ 119375 mirr      20   0    9948   3416   2820 R   6,2   0,1   0:00.01 top
+
+___Info in Сб 27 апр 2024 07:53:57 UTC
+	System mem params
+MiB Mem :   3911,2 total,     84,4 free,   3682,6 used,    144,1 buff/cache
+MiB Swap:   3911,0 total,    458,3 free,   3452,7 used.     57,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6310916   3,2g   2080 R  93,8  83,9   5:13.26 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6327416   3,2g   2080 R 100,0  84,0   5:14.13 mem.bash
+   1540 mirr      20   0 5194720 105136  34944 S   6,7   2,6  19:39.76 gnome-s+
+   2112 mirr      20   0 1149680  74624  15172 S   6,7   1,9   3:22.92 nautilus
+      1 root      20   0  167220   7868   5132 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:54:00 UTC
+	System mem params
+MiB Mem :   3911,2 total,     80,4 free,   3687,8 used,    142,9 buff/cache
+MiB Swap:   3911,0 total,    411,6 free,   3499,3 used.     63,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6354476   3,2g   2080 R 100,0  84,2   5:15.29 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6373088   3,2g   2080 R 100,0  84,1   5:16.10 mem.bash
+   1540 mirr      20   0 5190304 102276  32080 S  93,3   2,6  19:40.11 gnome-s+
+  72387 mirr      20   0  643196  41940  19900 S  20,0   1,0   0:34.63 gedit
+    105 root      20   0       0      0      0 S  13,3   0,0   3:42.19 kswapd0
+   1364 root      20   0   86612   3408   3036 S   6,7   0,1   0:14.75 spice-v+
+
+___Info in Сб 27 апр 2024 07:54:01 UTC
+	System mem params
+MiB Mem :   3911,2 total,     82,5 free,   3687,0 used,    141,6 buff/cache
+MiB Swap:   3911,0 total,    367,1 free,   3543,9 used.     62,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6400280   3,2g   2080 R  93,3  84,0   5:17.25 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6419816   3,2g   2080 R 100,0  84,1   5:18.06 mem.bash
+   1540 mirr      20   0 5190304 103484  33352 S  80,0   2,6  19:40.67 gnome-s+
+   2112 mirr      20   0 1149680  73756  14648 S   6,7   1,8   3:23.13 nautilus
+  72387 mirr      20   0  643196  41616  19568 S   6,7   1,0   0:34.75 gedit
+      1 root      20   0  167220   7868   5132 S   0,0   0,2   0:03.30 systemd
+
+___Info in Сб 27 апр 2024 07:54:03 UTC
+	System mem params
+MiB Mem :   3911,2 total,     81,6 free,   3689,2 used,    140,4 buff/cache
+MiB Swap:   3911,0 total,    330,4 free,   3580,6 used.     55,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6447668   3,2g   2080 R 100,0  84,0   5:19.21 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6466676   3,2g   2080 R  93,3  84,5   5:20.01 mem.bash
+   1540 mirr      20   0 5190304  99532  29420 S  26,7   2,5  19:40.98 gnome-s+
+  20567 mirr      20   0  554328  24472  16940 S  13,3   0,6   0:10.26 gnome-t+
+   1688 mirr      20   0  312728   5464   3848 S   6,7   0,1   0:07.86 ibus-da+
+   1764 mirr      20   0  347760   5932   4664 S   6,7   0,1   0:04.10 ibus-ex+
+
+___Info in Сб 27 апр 2024 07:54:05 UTC
+	System mem params
+MiB Mem :   3911,2 total,     72,5 free,   3698,4 used,    140,3 buff/cache
+MiB Swap:   3911,0 total,    258,2 free,   3652,8 used.     88,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6494396   3,2g   2080 R 100,0  84,2   5:21.17 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6513668   3,2g   2080 R 100,0  83,8   5:21.98 mem.bash
+      1 root      20   0  167220   7788   5052 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_par+
+
+___Info in Сб 27 апр 2024 07:54:07 UTC
+	System mem params
+MiB Mem :   3911,2 total,     83,5 free,   3689,6 used,    138,1 buff/cache
+MiB Swap:   3911,0 total,    221,6 free,   3689,4 used.     73,7 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6542048   3,2g   2080 R 100,0  84,1   5:23.14 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6561452   3,2g   2080 R 100,0  84,1   5:23.95 mem.bash
+   2112 mirr      20   0 1149680  72412  13856 S   6,7   1,8   3:23.36 nautilus
+      1 root      20   0  167220   7788   5052 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:54:09 UTC
+	System mem params
+MiB Mem :   3911,2 total,     91,0 free,   3683,8 used,    136,4 buff/cache
+MiB Swap:   3911,0 total,    180,4 free,   3730,6 used.     69,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6589832   3,2g   2080 R 100,0  84,0   5:25.11 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6609632   3,2g   2080 R 100,0  84,0   5:25.93 mem.bash
+    105 root      20   0       0      0      0 R  18,8   0,0   3:42.98 kswapd0
+   2112 mirr      20   0 1149680  72200  13752 S   6,2   1,8   3:23.43 nautilus
+      1 root      20   0  167220   7788   5052 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:54:11 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,1 free,   3689,1 used,    135,0 buff/cache
+MiB Swap:   3911,0 total,    138,5 free,   3772,5 used.     63,0 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6636956   3,2g   2080 R 100,0  84,0   5:27.08 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6656756   3,2g   2080 R 100,0  84,2   5:27.89 mem.bash
+    105 root      20   0       0      0      0 S   6,2   0,0   3:43.12 kswapd0
+   2112 mirr      20   0 1149680  71960  13644 S   6,2   1,8   3:23.51 nautilus
+      1 root      20   0  167220   7788   5052 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:54:13 UTC
+	System mem params
+MiB Mem :   3911,2 total,     87,4 free,   3689,7 used,    134,1 buff/cache
+MiB Swap:   3911,0 total,     92,6 free,   3818,4 used.     64,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6685400   3,2g   2080 R 100,0  84,2   5:29.06 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6705464   3,2g   2080 R  93,8  84,4   5:29.87 mem.bash
+    105 root      20   0       0      0      0 S   6,2   0,0   3:43.26 kswapd0
+   2112 mirr      20   0 1149680  71908  13600 S   6,2   1,8   3:23.58 nautilus
+      1 root      20   0  167220   7788   5052 S   0,0   0,2   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+
+___Info in Сб 27 апр 2024 07:54:15 UTC
+	System mem params
+MiB Mem :   3911,2 total,     93,3 free,   3706,9 used,    111,0 buff/cache
+MiB Swap:   3911,0 total,     80,3 free,   3830,6 used.     51,3 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6732656   3,2g   2080 R 100,0  84,9   5:31.04 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6751928   3,2g   2080 R 100,0  84,9   5:31.86 mem.bash
+    105 root      20   0       0      0      0 S  53,3   0,0   3:43.63 kswapd0
+      1 root      20   0  167220   5928   3212 S   0,0   0,1   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:54:17 UTC
+	System mem params
+MiB Mem :   3911,2 total,     81,9 free,   3730,8 used,     98,5 buff/cache
+MiB Swap:   3911,0 total,     33,8 free,   3877,2 used.     57,5 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6779912   3,3g   2080 R  93,8  85,3   5:33.02 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6799844   3,3g   2080 R  93,3  85,4   5:33.82 mem.bash
+   2112 mirr      20   0 1149680  67328  10268 S   6,7   1,7   3:23.73 nautilus
+      1 root      20   0  167220   5740   3028 S   0,0   0,1   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:54:19 UTC
+	System mem params
+MiB Mem :   3911,2 total,     71,4 free,   3744,5 used,     95,2 buff/cache
+MiB Swap:   3911,0 total,     13,5 free,   3897,5 used.     31,2 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6827828   3,3g   2080 R 100,0  85,9   5:34.99 mem.bash
+
+	Info about first five processes
+  98590 mirr      20   0 6847496   3,3g   2080 R 100,0  86,0   5:35.80 mem.bash
+    105 root      20   0       0      0      0 R   6,7   0,0   3:43.91 kswapd0
+      1 root      20   0  167220   5680   2968 S   0,0   0,1   0:03.30 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+___Info in Сб 27 апр 2024 07:54:21 UTC
+	System mem params
+MiB Mem :   3911,2 total,     64,1 free,   3762,8 used,     84,2 buff/cache
+MiB Swap:   3911,0 total,      0,0 free,   3911,0 used.     12,8 avail Mem 
+
+	Info about mem_together.bash
+  98590 mirr      20   0 6876008   3,3g   1780 R 100,0  86,5   5:36.98 mem.bash
+
+	Info about first five processes
+    105 root      20   0       0      0      0 R 100,0   0,0   3:44.78 kswapd0
+     28 root      20   0       0      0      0 S   5,9   0,0   0:01.05 ksoftir+
+   2112 mirr      20   0 1149680  73348  16608 S   5,9   1,8   3:24.12 nautilus
+ 121089 mirr      20   0    9948   3416   2820 S   5,9   0,1   0:00.01 top
+ 121092 mirr      20   0    9948   3412   2820 S   5,9   0,1   0:00.01 top
+
