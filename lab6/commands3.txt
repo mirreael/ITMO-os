@@ -1,0 +1,15 @@
+sc query > old_sc.txt
+
+net stop "Dnscache"
+timeout /t 10
+sc query > new_sc.txt
+call check_diff.bat
+net start "Dnscache"
+
+fc /u new_sc.txt old_sc.txt
+type difference.txt
+if errorlevel 1 (
+	echo difference 
+)
+
+pause

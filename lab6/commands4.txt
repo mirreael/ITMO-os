@@ -1,0 +1,2 @@
+driverquery /fo table > DRIVERS
+sort /r DRIVERS /o DRIVERS_sort

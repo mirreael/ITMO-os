@@ -1,0 +1,14 @@
+mkdir C:\lab6 
+ver > C:\lab6\system_info.txt
+systeminfo | find "Total Physical Memory" > C:\lab6\memory_info.txt
+systeminfo | find "Available Physical Memory" >> C:\lab6\memory_info.txt
+diskpart list volume 
+mkdir C:\lab6\test
+xcopy C:\lab6 C:\lab6\test
+cd C:\lab6\test
+type *.* > files.txt
+mkdir temp
+move files.txt temp
+del *.*
+move temp/files.txt .
+rmdir temp

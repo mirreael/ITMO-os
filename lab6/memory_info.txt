@@ -1,0 +1,2 @@
+Total Physical Memory:     2,039 MB
+Available Physical Memory: 874 MB

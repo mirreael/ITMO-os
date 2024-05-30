@@ -1,0 +1,11 @@
+ Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     D   UTM          UDF    CD-ROM       224 MB  Healthy
+  Volume 1     E   22631.2861.  UDF    CD-ROM      5636 MB  Healthy
+  Volume 2     C                NTFS   Partition     63 GB  Healthy    Boot
+  Volume 3                      FAT32  Partition    100 MB  Healthy    System
+  Volume 4                      NTFS   Partition     63 MB
+Total Physical Memory:     2,039 MB
+Available Physical Memory: 874 MB
+
+Microsoft Windows [Version 10.0.22631.3447]
